@@ -1,0 +1,43 @@
+<exercise checkit-seed="0005" checkit-slug="LT6" checkit-title="Limits with infinite outputs">
+    <statement>
+        <p>
+Explain how to find the value of each limit.
+        </p>
+        <ol>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4^- } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}</me>
+                </p>
+            </li>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4^+ } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}</me>
+                </p>
+            </li>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4 } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}</me>
+                </p>
+            </li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4^- } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}=-\infty</me>
+                </p>
+            </li>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4^+ } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}=-\infty</me>
+                </p>
+            </li>
+            <li>
+                <p> 
+                    <me>\lim_{x\to-4 } \frac{{\left(x - 2\right)} {\left(x - 4\right)}^{3}}{{\left(x + 4\right)}^{2} {\left(x - 6\right)}}=-\infty</me>
+                </p>
+            </li>
+        </ol>
+    </answer>
+</exercise>

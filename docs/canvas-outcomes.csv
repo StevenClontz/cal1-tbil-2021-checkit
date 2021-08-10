@@ -1,0 +1,7 @@
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,mastery_points,ratings
+checkit_tbil-calc_00_LT1_1628629946.7569058,outcome,00-LT1: Limits graphically,,LT1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_01_LT2_1628629946.7569058,outcome,01-LT2: Limits numerically,,LT2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_02_LT3_1628629946.7569058,outcome,02-LT3: Limits analytically,,LT3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_03_LT4_1628629946.7569058,outcome,03-LT4: Continuity,,LT4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_04_LT5_1628629946.7569058,outcome,04-LT5: Limits with infinite inputs,,LT5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_05_LT6_1628629946.7569058,outcome,05-LT6: Limits with infinite outputs,,LT6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
