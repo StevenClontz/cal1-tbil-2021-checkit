@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bank version="0.1" xmlns="https://checkit.clontz.org">
+  <title>Calculus for Team-Based Inquiry Learning</title>
+  <url>https://github.com/stevenclontz/cal1-tbil-2021-checkit/</url>
+  <outcomes>
+    <outcome>
+      <title>Limits graphically</title>
+      <slug>LT1</slug>
+      <description>Find limits from the graph of a function.</description>
+    </outcome>
+    <outcome>
+      <title>Limits numerically</title>
+      <slug>LT2</slug>
+      <description>Infer the value of a limit based on nearby values of the function.</description>
+    </outcome>
+    <outcome>
+      <title>Limits analytically</title>
+      <slug>LT3</slug>
+      <description>Compute limits of functions given algebraically, using proper limit properties.</description>
+    </outcome>
+    <outcome>
+      <title>Continuity</title>
+      <slug>LT4</slug>
+      <description>Determine where a function is and is not continuous.</description>
+    </outcome>
+    <outcome>
+      <title>Limits with infinite inputs</title>
+      <slug>LT5</slug>
+      <description>Determine limits of functions at infinity.</description>
+    </outcome>
+    <outcome>
+      <title>Limits with infinite outputs</title>
+      <slug>LT6</slug>
+      <description>Determine limits of functions approaching vertical asymptotes.</description>
+    </outcome>
+  </outcomes>
+</bank>
