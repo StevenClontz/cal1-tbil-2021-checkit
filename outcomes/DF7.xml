@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+Explain how to use implicit differentiation to find
+<m>\frac{dy}{dx}</m> for each of the following equations.
+        </p>
+        <ol>
+            {{#equations}}
+                <li><p><me>{{equation}}</me></p></li>
+            {{/equations}}
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            {{#equations}}
+                <li><p><me>\frac{dy}{dx}={{yp}}</me></p></li>
+            {{/equations}}
+        </ol>
+    </answer>
+</exercise>
