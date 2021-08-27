@@ -1,7 +1,15 @@
 vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,mastery_points,ratings
-checkit_tbil-calc_00_LT1_1628629946.7569058,outcome,00-LT1: Limits graphically,,LT1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_01_LT2_1628629946.7569058,outcome,01-LT2: Limits numerically,,LT2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_02_LT3_1628629946.7569058,outcome,02-LT3: Limits analytically,,LT3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_03_LT4_1628629946.7569058,outcome,03-LT4: Continuity,,LT4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_04_LT5_1628629946.7569058,outcome,04-LT5: Limits with infinite inputs,,LT5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_05_LT6_1628629946.7569058,outcome,05-LT6: Limits with infinite outputs,,LT6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_00_LT1_1630096890.0283666,outcome,00-LT1: Limits graphically,,LT1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_01_LT2_1630096890.0283666,outcome,01-LT2: Limits numerically,,LT2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_02_LT3_1630096890.0283666,outcome,02-LT3: Limits analytically,,LT3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_03_LT4_1630096890.0283666,outcome,03-LT4: Continuity,,LT4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_04_LT5_1630096890.0283666,outcome,04-LT5: Limits with infinite inputs,,LT5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_05_LT6_1630096890.0283666,outcome,05-LT6: Limits with infinite outputs,,LT6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_06_DF1_1630096890.0283666,outcome,06-DF1: Derivatives graphically and numerically,,DF1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_07_DF2_1630096890.0283666,outcome,07-DF2: Derivatives analytically,,DF2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_08_DF3_1630096890.0283666,outcome,08-DF3: Elementary derivative rules,,DF3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_09_DF4_1630096890.0283666,outcome,09-DF4: The product and quotient rules ,,DF4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_10_DF5_1630096890.0283666,outcome,10-DF5: The chain rule,,DF5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_11_DF6_1630096890.0283666,outcome,11-DF6: Differentiation strategy,,DF6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_12_DF7_1630096890.0283666,outcome,12-DF7: Implicit differentiation,,DF7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_13_DF8_1630096890.0283666,outcome,13-DF8: Derivatives of inverse functions,,DF8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess

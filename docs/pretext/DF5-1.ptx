@@ -1,0 +1,22 @@
+<exercise checkit-seed="0001" checkit-slug="DF5" checkit-title="The chain rule">
+    <statement>
+        <p>
+            Demonstrate and explain how to find the derivative of the following functions.
+            Be sure to explicitly denote which derivative rules (product, quotient, sum and difference, etc.) you are using in your work.
+        </p>
+        <ol>
+            <li><me>f(x)= 5 \, \sin\left(x^{\frac{2}{5}}\right)</me></li>
+            <li><me>h(y)= 3 \, \cos\left(-3 \, y^{2} - 2 \, y - 4\right)</me></li>
+            <li><me>k(t)= {\left(2 \, t + 3 \, e^{t} - 3\right)}^{6}</me></li>
+            <li><me>g(w)= 5 \, \sin\left(w\right)^{\frac{2}{5}}</me></li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li><me>f' (x)= \frac{2 \, \cos\left(x^{\frac{2}{5}}\right)}{x^{\frac{3}{5}}}</me></li>
+            <li><me>h' (y)= 6 \, {\left(3 \, y + 1\right)} \sin\left(-3 \, y^{2} - 2 \, y - 4\right)</me></li>
+            <li><me>k' (t)= 6 \, {\left(2 \, t + 3 \, e^{t} - 3\right)}^{5} {\left(3 \, e^{t} + 2\right)}</me></li>
+            <li><me>g' (w)= \frac{2 \, \cos\left(w\right)}{\sin\left(w\right)^{\frac{3}{5}}}</me></li>
+        </ol>
+    </answer>
+</exercise>

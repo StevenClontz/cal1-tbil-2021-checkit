@@ -1,0 +1,35 @@
+<exercise checkit-seed="0006" checkit-slug="DF6" checkit-title="Differentiation strategy">
+    <statement>
+        <p>
+            Demonstrate and explain how to find the derivative of the following functions.
+            Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
+        </p>
+        <ol>
+            <!-- <li> <me>() = \left(  \right)^ </me></li>
+            <li><me>() =   </me></li>
+            <li><me>() = </me></li> -->
+                    <li><p><me>g(x) = \sqrt{\cos\left(5 \, x^{2} + 5 \, x\right)}</me></p></li>
+                    <li><p><me>
+                        h(t) = \left( -\frac{5 \, {\left(t^{5} - 1\right)}}{5 \, t^{3} + 6} \right)^{ 3 }
+                    </me></p></li>
+                    <li><p><me>f(y) = {\left(7 \, y^{5} - 5 \, y^{4}\right)}^{6} \sqrt{y}</me></p></li>
+        </ol>
+        
+
+    </statement>
+    <answer>
+        <ol>
+            <!-- <li><me>&apos;() =   \left(  \right)^ \left(  \right) </me></li>
+            <li><me>&apos;() =  </me></li>
+            <li><me>&apos;() =  </me></li> -->
+                    <li><p><me>g ' (x) = -\frac{5 \, {\left(2 \, x + 1\right)} \sin\left(5 \, x^{2} + 5 \, x\right)}{2 \, \sqrt{\cos\left(5 \, x^{2} + 5 \, x\right)}}</me></p></li>
+                    <li><p><me>
+                        h ' (t) = 3
+                        \left( -\frac{5 \, {\left(t^{5} - 1\right)}}{5 \, t^{3} + 6} \right)^{ 2 }
+                        \left( -\frac{25 \, t^{4}}{5 \, t^{3} + 6} + \frac{75 \, {\left(t^{5} - 1\right)} t^{2}}{{\left(5 \, t^{3} + 6\right)}^{2}} \right)
+                    </me></p></li>
+                    <li><p><me>f ' (y) = 30 \, {\left(7 \, y^{5} - 5 \, y^{4}\right)}^{5} {\left(7 \, y^{4} - 4 \, y^{3}\right)} \sqrt{y} + \frac{{\left(7 \, y^{5} - 5 \, y^{4}\right)}^{6}}{2 \, \sqrt{y}}</me></p></li>
+        </ol>
+
+    </answer>
+</exercise>

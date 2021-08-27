@@ -1,0 +1,22 @@
+<exercise checkit-seed="0009" checkit-slug="DF5" checkit-title="The chain rule">
+    <statement>
+        <p>
+            Demonstrate and explain how to find the derivative of the following functions.
+            Be sure to explicitly denote which derivative rules (product, quotient, sum and difference, etc.) you are using in your work.
+        </p>
+        <ol>
+            <li><me>f(x)= 9 \, \sin\left(-3 \, x^{2} + 5 \, x - 3\right)</me></li>
+            <li><me>g(t)= {\left(3 \, t - e^{t} - 5\right)}^{5}</me></li>
+            <li><me>h(y)= -8 \, \cos\left(y\right)^{\frac{3}{7}}</me></li>
+            <li><me>k(w)= -8 \, \cos\left(w^{\frac{3}{7}}\right)</me></li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li><me>f' (x)= -9 \, {\left(6 \, x - 5\right)} \cos\left(-3 \, x^{2} + 5 \, x - 3\right)</me></li>
+            <li><me>g' (t)= -5 \, {\left(3 \, t - e^{t} - 5\right)}^{4} {\left(e^{t} - 3\right)}</me></li>
+            <li><me>h' (y)= \frac{24 \, \sin\left(y\right)}{7 \, \cos\left(y\right)^{\frac{4}{7}}}</me></li>
+            <li><me>k' (w)= \frac{24 \, \sin\left(w^{\frac{3}{7}}\right)}{7 \, w^{\frac{4}{7}}}</me></li>
+        </ol>
+    </answer>
+</exercise>
