@@ -1,17 +1,57 @@
 <exercise checkit-seed="0007" checkit-slug="DF1" checkit-title="Derivatives graphically and numerically">
     <statement>
-        <p>
+        <ol>
+            <li>
+                <p>
 Suppose that there is a function <m>g</m> such that
 <m>g(1) = -2.3</m> and <m>g(0.6) = -2.8</m>.
 Explain how to use these values to estimate <m>g'(1)</m>.
-        </p>
+                </p>
+            </li>
+            <li>
+                <p>
+Sketch the graph of a function <m>f(x)</m>
+that satisfies the following criteria.
+(You do not need to define the function algebraically.)
+                </p>
+                <ul>
+                    <li>
+                        <p>
+Defined and continuous on the interval <m>[-10,10]</m>.
+                        </p>
+                    </li>
+                        <li>
+                            <p>
+The rate of change of <m>f(x)</m> when <m>x=8</m> is positive
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+<m>f'(x)</m> does not exist at <m>x=6</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+<m>\lim_{h\to 0} \frac{f( 9 +h)-f( 9 )}{h}&lt; 0</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+The slope tangent to the graph of <m>f(x)</m> at <m>x=1</m> is zero
+                            </p>
+                        </li>
+                </ul>
+            </li>
+        </ol>
     </statement>
     <answer>
-        <me>
+        <p>
+            <m>
             g'(1) \approx 
 <!-- \frac{ g(0.6) - g(1) }{ (0.6) - (1) } = 
 \frac{ (-2.8) - (-2.3) }{ (0.6) - (1) } =  -->
             1.25
-        </me>
+            </m>
+        </p>
     </answer>
 </exercise>
