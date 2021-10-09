@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        {{#scenario}}
+        {{#bucket}}
+            <p>
+                Suppose a bucket filled with liquid is to be lifted from the ground to a height of <m>{{height}}</m> meters at a constant speed.  Liquid spills out of the bucket, so the mass at height <m>x</m> meters is <m>m(x)={{massx}}</m> kilograms.  What is the work needed to lift this bucket from the ground to <m>{{height}}</m> meters?  Express your solution as an integral expression.
+            </p>
+        {{/bucket}}
+        {{#well}}
+            <p>
+                Suppose a well that is {{height}} meters deep had a circular base of radius {{radius}} meters.  The well is filled with water that needs to be pumped to the surface.  Using the fact that waters density is 1,000 kg per cubic meter, how  much work does it take to pump all the water out of the well? Express your solution as an integral expression.
+            </p>
+        {{/well}}
+        {{#dam}}
+            <p>
+                Suppose a trapezoidal dam is {{height}} feet tall.  The dam is {{base1}} feet wide on top and {{base2}} feet wide on the bottom.  Water presses against the entire surface of this damn.  Using the fact that water excudes 62.4<m>x</m> pounds per square foot of pressure at  a depth of <m>x</m> feet, how much force is excuded against the dam? Express your solution as an integral expression.
+            </p>
+        {{/dam}}
+    {{/scenario}}
+    </statement>
+    <answer>
+        {{#scenario}}
+        {{#bucket}}
+            <p>
+                <me>
+                    \int_0^{ {{height}} } 9.8\cdot \left({{workx}} \right)dx\ \text{Nm}.
+                </me>
+               
+            </p>
+        {{/bucket}}
+        {{#well}}
+            <p>
+                <me>
+                    \int_0^{ {{height}} } 9.8\cdot 1000\cdot {{workx}} dx\ \text{Nm}.
+                </me>
+               
+            </p>
+        {{/well}}
+        {{#dam}}
+            <p>
+                <me>
+                    \int_0^{ {{height}} } 62.4\cdot \left({{workx}}\right) dx\ \text{pounds}.
+                </me>
+               
+            </p>
+        {{/dam}}
+    {{/scenario}}
+    </answer>
+</exercise>

@@ -1,0 +1,85 @@
+
+            <!-- <p>
+Each day at work, you're able to sell <m>{{base_sales}}</m> {{widget}}s
+priced at <m>\${{base_cost}}</m> each. Your {{person}} is considering
+adjusting this price to increase revenue ({{widget}}s sold times price).
+According to your customers, it seems that you'll be able to make
+<m>{{change_in_sales}}</m> more daily sales by reducing the price by
+<m>\$1</m>, and you'll lose that many sales by increasing the price by
+the same amount. Describe how and why your {{person}} should change the
+price of a {{widget}}.
+            </p> -->
+            
+            <!-- <p>
+Your {{person}} tells you at work one day that they believe the price of 
+the {{widget}}s you sell
+should be reduced - while you currently sell <m>{{base_sales}}</m> units
+weekly when priced at <m>\${{base_cost}}</m> apiece, a consultant has
+determined that you'll sell <m>{{change_in_sales}}</m> more units for each
+dollar you take off that price (but you'll lose as many sales if you increase
+the cost by a dollar as well). Explain whether or not your {{person}} is
+correct by determining the optimal change in price for a {{widget}} to
+maximize revenue (units sold times price).
+            </p> -->
+        {{#rectangle}}
+            {{#wording0}}
+        <p>
+A {{person}} plans to grow a garden within a rectangular plot
+of land. One side of this rectangle will be against a long exterior wall,
+and the other three sides must be surrounded with 
+<m>{{fencing}}</m> {{units}}
+of fencing. Explain how to compute the maximum area of such a garden.
+        </p>
+            {{/wording0}}
+            {{#wording1}}
+        <p>
+A {{person}} wishes to corral several animals using <m>{{fencing}}</m> {{units}}
+of fencing. The corral must be rectangular, but one edge of this corral 
+can utilize the long side of an existing barn rather than the fencing.
+Explain how to compute the maximum area of such a corral.
+        </p>
+            {{/wording1}}
+            {{#wording2}}
+        <p>
+You've been asked by a {{person}} to help them design a rectangular
+garden containing <m>{{area}}</m> {{units}}<m>^2</m> of land. They have
+a long stream that will be used for one side, but this {{person}} needs
+to purchase additional fencing for the other three sides. Explain how
+to determine the minimum amount of fencing this {{person}} must purchase.
+        </p>
+            {{/wording2}}
+            {{#wording3}}
+        <p>
+You've been asked by a {{person}} to help them 
+to open a petting zoo in a field behind their house,
+and they will need <m>{{area}}</m> {{units}}<m>^2</m>
+of rectangular space to corral your various animals.
+The land they will be using is adjacent to a natural barrier that can be used
+as one side of the rectangle, but they'll need to purchase additional fencing
+for the other three sides. Explain how to find the minimum amount of
+fencing this {{person}} will need for this corral.
+        </p>
+            {{/wording3}}
+        {{/rectangle}}
+        {{#rectangle}}
+            {{#wording0}}
+                <p>
+                    <m>{{area}}</m> {{units}}<m>^2</m>.
+                </p>
+            {{/wording0}}
+            {{#wording1}}
+                <p>
+                    <m>{{area}}</m> {{units}}<m>^2</m>.
+                </p>
+            {{/wording1}}
+            {{#wording2}}
+                <p>
+                    <m>{{fencing}}</m> {{units}}.
+                </p>
+            {{/wording2}}
+            {{#wording3}}
+                <p>
+                    <m>{{fencing}}</m> {{units}}.
+                </p>
+            {{/wording3}}
+        {{/rectangle}}

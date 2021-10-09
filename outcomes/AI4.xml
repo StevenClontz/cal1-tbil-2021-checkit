@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        {{#scenario}}
+        {{#cylinder}}
+            <p>
+                Suppose a cylinder of height {{height}} meters had a circular base of radius {{radius}} meters.  Suppose the density of the cylinder in kg per cubic meter was <m>\delta(x)={{densx}}</m> at height <m>x</m> meters.
+            </p>
+        {{/cylinder}}
+        {{#cone}}
+            <p>
+                Suppose a cone of height {{height}} meters had a circular base of radius {{radius}} meters.  Suppose the density of the cone in kg per cubic meter was <m>\delta(x)={{densx}}</m> at height <m>x</m> meters.
+            </p>
+        {{/cone}}
+        {{#pyramid}}
+            <p>
+                Suppose a pyramid of height {{height}} meters had a square base of width {{width}} meters.  Suppose the density of the pyramid in kg per cubic meter was <m>\delta(x)={{densx}}</m> at height <m>x</m> meters.
+            </p>
+        {{/pyramid}}
+        {{#prism}}
+            <p>
+                Suppose a rectangular prism of height {{height}} meters had a rectangular base of width {{width}} meters and length {{length}} meters.  Suppose the density of the prism in kg per cubic meter was <m>\delta(x)={{densx}}</m> at height <m>x</m> meters.
+            </p>
+        {{/prism}}
+    {{/scenario}}
+        <p>
+            <ol>
+                <li>Find an integral expression which computes the mass of this solid.  (Be sure to include units.)</li>
+                <li>Find an  expression using integrals which computes the height of the center of mass for this solid.  (Be sure to include units.)</li>
+            </ol>
+        </p>
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+                        \int_0^{ {{height}} } \left({{densx}}\right)\cdot \left({{Ax}}\right) dx.
+                    </me>
+                </li>
+                <li><me>
+                        \frac{\int_0^{ {{height}} } \left({{densx}}\right)\cdot \left({{Ax}}\right)\cdot x dx}{\int_0^{ {{height}} } \left({{densx}}\right)\cdot \left({{Ax}}\right) dx}.
+                    </me></li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

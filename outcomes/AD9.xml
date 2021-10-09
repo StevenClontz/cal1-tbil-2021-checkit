@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <!-- The contents of <statement></statement> should specify
+         the task you wish them to complete. -->
+    <statement>
+        <p>
+For each limit, explain if L'Hôpital's Rule may be applied.
+If it can, explain how to use this rule to find the limit.
+        </p>
+        <ol>
+            {{#limits}}
+                <li>
+                    <p>
+                        <me>
+\lim_{x\to {{to}} } \frac{ {{num}} }{ {{den}} }
+                        </me>
+                    </p>
+                </li>
+            {{/limits}}
+        </ol>
+    </statement>
+    <!-- The contents of <answer></answer> summarize the
+         "final answer" related to this task. -->
+    <answer>
+         <ol>
+            {{#limits}}
+                <li>
+                    <p>
+                        {{#is}}
+                        <me>
+\lim_{x\to {{to}} } \frac{ {{num}} }{ {{den}} } = {{is}}
+                        </me>
+                        {{/is}}
+                        {{^is}}
+L'Hôptial's Rule does not apply.
+                        {{/is}}
+                    </p>
+                </li>
+            {{/limits}}
+        </ol>
+    </answer>
+</exercise>

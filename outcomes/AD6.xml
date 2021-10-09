@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <!-- The contents of <statement></statement> should specify
+         the task you wish them to complete. -->
+    <statement>
+        <p>
+For each of the following functions, describe the open intervals
+where it is concave up or concave down, and any inflection points.      
+        </p>
+        <ol>
+            {{#fs}}
+                <li>
+                    <p><m>f(x)={{f}}</m></p>
+                </li>
+            {{/fs}}
+        </ol>
+    </statement>
+    <answer>
+         <ol>
+            {{#fs}}
+                <li>
+                    <p><m>f''(x)={{fpp}}</m></p>
+                    <ul>
+                        {{#data}}
+                            {{#interval}}
+                                <li>
+                                    <p>
+<m>{{interval}}</m> is concave <em>{{concavity}}</em>
+                                    </p>
+                                </li>
+                            {{/interval}}
+                            {{#point}}
+                                <li>
+                                    <p>
+<m>{{point}}</m>
+{{#inflection}}<em>is</em>{{/inflection}}
+{{^inflection}}is <em>not</em>{{/inflection}}
+an inflection point
+                                    </p>
+                                </li>
+                            {{/point}}
+                        {{/data}}
+                    </ul>
+                </li>
+            {{/fs}}
+        </ol>
+    </answer>
+</exercise>

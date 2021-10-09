@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.1">
+   <statement>
+        <p>
+           Let <m> f'(x)={{fdiff}} </m>. Find <m>f(x)</m> such that <m>{{IV}}</m>. 
+        </p>
+    </statement>
+
+    <answer>
+        <p>
+            <me>{{answerB}}</me>
+        </p>
+    </answer>
+</exercise>

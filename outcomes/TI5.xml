@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            Consider the integral <m>\displaystyle\int {{f}}dx</m>.
+        </p>
+        <p>
+            Using a table of integrals, evaluate this integral.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int {{f}}dx={{F}}+C.</me>
+    </answer>
+</exercise>

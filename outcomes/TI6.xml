@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            Consider the integral <m>\displaystyle\int {{f}}dx</m>.
+        </p>
+        <p>
+            Using the partial fraction decomposition <me>\displaystyle\int {{f}}dx=\displaystyle\int {{pf}}dx</me> find <m>\displaystyle\int {{f}}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int {{f}}dx=\displaystyle\int {{pf}}dx={{F}}+C.</me>
+    </answer>
+</exercise>

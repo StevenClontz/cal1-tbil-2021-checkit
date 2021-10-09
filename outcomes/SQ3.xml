@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Consider the partial sum series <m>\displaystyle A_n=\left({{s0}}\right)+\left({{s1}}\right)+\left({{s2}}\right)+\cdots+\left({{k}}\cdot \left( {{r}}\right)^n \right).</m>
+                    <ol>
+                        <li>Find a closed form for <m>A_n</m>.</li>
+                        <li>Does <m>\{A_n\}</m> converge?  If so, to what value?</li>
+                    </ol>
+                </li>
+                <li>
+                    Consider the partial sum series <m>\displaystyle B_n=\sum_{i=1}^n \left( {{fi}}-{{fi1}} \right).</m>
+                    <ol>
+                        <li>Find a closed form for <m>B_n</m>.</li>
+                        <li>Does <m>\{B_n\}</m> converge?  If so, to what value?</li>
+                    </ol>
+                </li>
+                
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <ol>
+                        <li><m>\displaystyle A_n={{k}}\cdot\frac{1-\left({{r}}\right)^{n+1} }{1- \left({{r}}\right) }</m>.</li>
+                            {{#Problem1}}
+                        <li>
+                            {{#Converge}}
+                            <m>\displaystyle\lim_{n\to\infty} {{k}}\cdot\frac{1-\left({{r}}\right)^{n+1} }{1- \left({{r}}\right) } </m> converges to <m>{{Limit}}</m>.                
+                            {{/Converge}}
+                            {{^Converge}}
+                            <m>\displaystyle\lim_{n\to\infty} {{k}}\cdot\frac{1-\left({{r}}\right)^{n+1} }{1- \left({{r}}\right) }</m> diverges.               
+                            {{/Converge}}
+                        </li>            
+                        {{/Problem1}}
+                    </ol>
+                </li>
+                <li>
+                    <ol>
+                        <li><m>\displaystyle B_n={{f1}}-{{fn1}}</m>.</li>
+                            {{#Problem2}}
+                        <li>
+                            {{#Converge}}
+                            <m>\displaystyle\lim_{n\to\infty} {{f1}}-{{fn1}} </m> converges to <m>{{Limit}}</m>.                
+                            {{/Converge}}
+                            {{^Converge}}
+                            <m>\displaystyle\lim_{n\to\infty} {{f1}}-{{fn1}}</m> diverges.               
+                            {{/Converge}}
+                        </li>            
+                        {{/Problem2}}
+                    </ol>
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

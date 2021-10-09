@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.1">
+    <statement>
+        <p>
+Explain how to approximate the area under the curve
+<m>f(x)={{function}}</m> on the
+interval <m>[{{lbound}},{{ubound}}]</m> using a {{side}} Riemann
+sum with {{numintervals}} rectangles of uniform width.
+        </p>
+    </statement>
+    <answer>
+        <p>
+            <m>{{answer}}</m>
+        </p>
+    </answer>
+</exercise>
