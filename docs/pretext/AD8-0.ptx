@@ -1,0 +1,27 @@
+<exercise checkit-seed="0000" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+            <p>
+Suppose you wished to build a gift box from a rectangular sheet
+of constrction paper that measures <m>84</m> centimeters long by
+<m>84</m> centimeters wide. By cutting identical square pieces from each
+corner, the sides can be folded up and taped together, creating a lidless box.
+How large should you cut these squares so that the resulting box has maximum volume?
+            </p>
+
+
+
+
+    </statement>
+    <answer>
+
+            <p>
+Each square should have side length <m>14</m> centimeters.
+            </p>
+
+
+
+
+    </answer>
+</exercise>

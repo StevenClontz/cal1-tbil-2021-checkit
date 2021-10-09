@@ -1,0 +1,29 @@
+<exercise checkit-seed="0007" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+
+            <p>
+A lion is distanced from a motionless zebra <m>172</m>
+yards along a stream's edge and <m>60</m> yards across
+the water. The lion is able to swim at a speed of
+<m>8</m> yards per second, and run at a speed of
+<m>17</m> yards per second. If the lion wishes
+to to minimize the time required to reach the zebra, how much of its 
+movement should be along the stream's edge?
+            </p>
+
+    </statement>
+    <answer>
+
+
+
+
+            <p>
+<m>140</m> yards.
+            </p>
+
+    </answer>
+</exercise>

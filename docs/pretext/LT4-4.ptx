@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>g(x)</m> is discontinuous at <m>x=4</m>. Determine if <m>g(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=4</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=-5</m> for 
+the function <m>g(x)</m>.</p>
                 <p>
                     <me>
                         g(x) = \begin{cases}
-                        -x + 10, &amp; x &lt; 4 \\
-                        \frac{x^{2} - 4 \, x + 4}{x - 1}, &amp; x \geq 4
+                        2 \, x + 16, &amp; x &lt; -5 \\
+                        6, &amp; x = -5 \\
+                        3 \, x + 9, &amp; x &gt; -5 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>f(x)</m> continuous at <m>x=2</m>, let <m>b=\frac{3}{2}</m>.</li>
-            <li>The function <m>g(x)</m> has a jump discontinuity and is right-continuous at <m>x=4</m>.</li>
+                <li>
+The function <m>g(x)</m> has a
+jump discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

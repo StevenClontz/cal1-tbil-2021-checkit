@@ -1,0 +1,29 @@
+<exercise checkit-seed="0008" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+
+            <p>
+A tiger is separated from a motionless warthog by a river of width
+<m>24</m> yards, and a length of <m>128</m> yards
+along the river's edge. The tiger is able to run at a speed of
+<m>17</m> yards per second, and swim at a speed of
+<m>15</m> yards per second. How much of the tiger's
+movement should be along the edge of the river in order to minimize the time
+required to reach the warthog?
+            </p>
+
+    </statement>
+    <answer>
+
+
+
+
+            <p>
+<m>83</m> yards.
+            </p>
+
+    </answer>
+</exercise>

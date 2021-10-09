@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>h(x)</m> is discontinuous at <m>x=3</m>. Determine if <m>h(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=3</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=8</m> for 
+the function <m>h(x)</m>.</p>
                 <p>
                     <me>
                         h(x) = \begin{cases}
-                        \frac{3}{2} \, x - \frac{31}{6}, &amp; x \leq 3 \\
-                        \frac{x^{2} - 4 \, x + 3}{x^{2} - 9 \, x + 18}, &amp; x &gt; 3
+                        -2 \, x + 7, &amp; x &lt; 8 \\
+                        -9, &amp; x = 8 \\
+                        -3 \, x + 20, &amp; x &gt; 8 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>f(x)</m> continuous at <m>x=5</m>, let <m>b=2</m>.</li>
-            <li>The function <m>h(x)</m> has a removable discontinuity and is left-continuous at <m>x=3</m>.</li>
+                <li>
+The function <m>h(x)</m> has a
+jump discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

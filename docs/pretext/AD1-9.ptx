@@ -1,0 +1,82 @@
+<exercise checkit-seed="0009" checkit-slug="AD1" checkit-title="Tangents, Motion, and Marginals">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                Let <m>g(x) = 3 \, x^{4} - 3 \, x^{3} + 3 \, x - 6</m>. Find an equation of the line tangent to the graph at the point <m>(3, 165)</m>.
+                </p>
+            </li>
+            <li>
+        <p>
+Suppose the position of an object in kilometers
+is modeled by the following function.
+<me>s(t)=-2 \, t^{3} - 2 \, t^{2} - 6 \, t + 29</me>
+        </p>
+        <p>
+Explain how to find the object's position, displacement,
+velocity, speed, and acceleration at <m>6</m>
+seconds. Use appropriate units for each.
+                </p>
+            </li>
+            <li>
+                <p>
+A widget is sold for <m>\$814</m> per item.
+The cost (in dollars) of manufacturing <m>x</m> items is given by the
+following function:
+<me>C(x)=10 \, x^{3} + 4 \, x^{2} + 5 \, x + 4</me>
+                </p>
+                <p>
+Suppose that the number of items produced is equal to the number of items sold. 
+Explain how to find the marginal revenue, the marginal cost, and the marginal profit
+for this situation.
+                </p>
+            </li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+The equation of the tangent line is <m>y = 246 \, x - 573</m>.
+                </p>
+            </li>
+                    
+            <li>
+        <ul>
+            <li>
+                <p>
+Position: <m>-511</m> kilometers
+                </p>
+            </li>
+            <li>
+                <p>
+Displacement: <m>-540</m> kilometers
+                </p>
+            </li>
+            <li>
+                <p>
+Velocity: <m>-246</m> kilometers per second
+                </p>
+            </li>
+            <li>
+                <p>
+Speed: <m>246</m> kilometers per second
+                </p>
+            </li>
+            <li>
+                <p>
+Acceleration: <m>-76</m> kilometers per <m>s^2</m>
+                </p>
+            </li>
+        </ul>
+            </li>
+            <li>
+                <p>
+The marginal cost is <m>30 \, x^{2} + 8 \, x + 5</m>,
+the marginal revenue is <m>814</m>,
+and the marginal profit is <m>-30 \, x^{2} - 8 \, x + 809</m>.
+                </p>
+            </li>
+        </ol>
+    </answer>
+</exercise>

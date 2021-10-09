@@ -1,0 +1,82 @@
+<exercise checkit-seed="0001" checkit-slug="AD1" checkit-title="Tangents, Motion, and Marginals">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                Let <m>f(x) = 3 \, x^{3} + 2 \, x^{2} + 4</m>. Find an equation of the line tangent to the graph at the point <m>(1, 9)</m>.
+                </p>
+            </li>
+            <li>
+        <p>
+Suppose the position of an object in meters
+is modeled by the following function.
+<me>s(t)=3 \, t^{3} + 4 \, t^{2} + 4 \, t - 84</me>
+        </p>
+        <p>
+Explain how to find the object's position, displacement,
+velocity, speed, and acceleration at <m>5</m>
+seconds. Use appropriate units for each.
+                </p>
+            </li>
+            <li>
+                <p>
+A gizmo is sold for <m>\$837</m> per item.
+The cost (in dollars) of manufacturing <m>x</m> items is given by the
+following function:
+<me>C(x)=7 \, x^{3} + 6 \, x^{2} + x + 4</me>
+                </p>
+                <p>
+Suppose that the number of items produced is equal to the number of items sold. 
+Explain how to find the marginal revenue, the marginal cost, and the marginal profit
+for this situation.
+                </p>
+            </li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+The equation of the tangent line is <m>y = 13 \, x - 4</m>.
+                </p>
+            </li>
+                    
+            <li>
+        <ul>
+            <li>
+                <p>
+Position: <m>411</m> meters
+                </p>
+            </li>
+            <li>
+                <p>
+Displacement: <m>495</m> meters
+                </p>
+            </li>
+            <li>
+                <p>
+Velocity: <m>269</m> meters per second
+                </p>
+            </li>
+            <li>
+                <p>
+Speed: <m>269</m> meters per second
+                </p>
+            </li>
+            <li>
+                <p>
+Acceleration: <m>98</m> meters per <m>s^2</m>
+                </p>
+            </li>
+        </ul>
+            </li>
+            <li>
+                <p>
+The marginal cost is <m>21 \, x^{2} + 12 \, x + 1</m>,
+the marginal revenue is <m>837</m>,
+and the marginal profit is <m>-21 \, x^{2} - 12 \, x + 836</m>.
+                </p>
+            </li>
+        </ol>
+    </answer>
+</exercise>

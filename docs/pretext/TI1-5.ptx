@@ -1,0 +1,15 @@
+<exercise checkit-seed="0005" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=\frac{3 \, x^{2}}{2 \, {\left(x^{3} - 1\right)}^{\frac{3}{2}}}.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int \frac{3 \, x^{2}}{2 \, {\left(x^{3} - 1\right)}^{\frac{3}{2}}} dx=-\frac{1}{\sqrt{x^{3} - 1}}+C.
+        </me>
+    </answer>
+</exercise>

@@ -1,0 +1,29 @@
+<exercise checkit-seed="0004" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+
+            <p>
+A lion is distanced from a motionless bushpig <m>121</m>
+feet along a stream's edge and <m>60</m> feet across
+the water. The lion is able to swim at a speed of
+<m>8</m> feet per second, and run at a speed of
+<m>17</m> feet per second. If the lion wishes
+to to minimize the time required to reach the bushpig, how much of its 
+movement should be along the stream's edge?
+            </p>
+
+    </statement>
+    <answer>
+
+
+
+
+            <p>
+<m>89</m> feet.
+            </p>
+
+    </answer>
+</exercise>

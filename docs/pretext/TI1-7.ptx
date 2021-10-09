@@ -1,0 +1,15 @@
+<exercise checkit-seed="0007" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=4.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int 4 dx=4 \, x+C.
+        </me>
+    </answer>
+</exercise>

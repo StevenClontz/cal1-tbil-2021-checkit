@@ -1,0 +1,15 @@
+<exercise checkit-seed="0003" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=\frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}}.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int \frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}} dx=-2 \, \sqrt{\cos\left(x\right)}+C.
+        </me>
+    </answer>
+</exercise>

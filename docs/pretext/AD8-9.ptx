@@ -1,0 +1,31 @@
+<exercise checkit-seed="0009" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+
+            <p>
+A video game speedrunner by the handle Fubbia wants to minimize
+the time it takes to manuever their character down and across a hallway
+in order to finish a level as quickly as possible. The length of the hallway
+necessary to travel is <m>174</m> units long,
+and the hallway is <m>60</m> units wide;
+the character moves <m>17</m> units per frame
+along the hallway's wall and <m>8</m> units per frame
+across the hallway. How much of Fubbia's movement should
+be along the wall of the hallway?
+            </p>
+
+    </statement>
+    <answer>
+
+
+
+
+            <p>
+<m>142</m> units.
+            </p>
+
+    </answer>
+</exercise>

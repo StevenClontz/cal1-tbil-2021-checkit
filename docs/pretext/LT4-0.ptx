@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>h(x)</m> is discontinuous at <m>x=-3</m>. Determine if <m>h(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=-3</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=-3</m> for 
+the function <m>h(x)</m>.</p>
                 <p>
                     <me>
                         h(x) = \begin{cases}
-                        -\frac{5}{2} \, x - \frac{17}{2}, &amp; x &lt; -3 \\
-                        \frac{x^{2} + 6 \, x + 8}{x + 5}, &amp; x \geq -3
+                        6 \, x + 10, &amp; x &lt; -3 \\
+                        5, &amp; x = -3 \\
+                        -2 \, x - 14, &amp; x &gt; -3 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>g(x)</m> continuous at <m>x=-3</m>, let <m>b=\frac{5}{2}</m>.</li>
-            <li>The function <m>h(x)</m> has a jump discontinuity and is right-continuous at <m>x=-3</m>.</li>
+                <li>
+The function <m>h(x)</m> has a
+removable discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

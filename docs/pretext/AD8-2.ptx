@@ -1,0 +1,29 @@
+<exercise checkit-seed="0002" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+
+            <p>
+A tiger is separated from a motionless bushpig by a river of width
+<m>16</m> meters, and a length of <m>77</m> meters
+along the river's edge. The tiger is able to run at a speed of
+<m>17</m> meters per second, and swim at a speed of
+<m>15</m> meters per second. How much of the tiger's
+movement should be along the edge of the river in order to minimize the time
+required to reach the bushpig?
+            </p>
+
+    </statement>
+    <answer>
+
+
+
+
+            <p>
+<m>47</m> meters.
+            </p>
+
+    </answer>
+</exercise>

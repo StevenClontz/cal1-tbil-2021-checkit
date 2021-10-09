@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>h(x)</m> is discontinuous at <m>x=4</m>. Determine if <m>h(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=4</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=4</m> for 
+the function <m>h(x)</m>.</p>
                 <p>
                     <me>
                         h(x) = \begin{cases}
-                        -\frac{1}{2} \, x + 8, &amp; x \leq 4 \\
-                        \frac{x^{2} - 9 \, x + 14}{x + 4}, &amp; x &gt; 4
+                        7 \, x - 20, &amp; x &lt; 4 \\
+                        2, &amp; x = 4 \\
+                        -3 \, x + 20, &amp; x &gt; 4 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>g(x)</m> continuous at <m>x=2</m>, let <m>b=0</m>.</li>
-            <li>The function <m>h(x)</m> has a jump discontinuity and is left-continuous at <m>x=4</m>.</li>
+                <li>
+The function <m>h(x)</m> has a
+removable discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

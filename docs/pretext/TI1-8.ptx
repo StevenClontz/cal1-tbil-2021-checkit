@@ -1,0 +1,15 @@
+<exercise checkit-seed="0008" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=5 \, \cos\left(e^{x}\right) e^{x}.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int 5 \, \cos\left(e^{x}\right) e^{x} dx=5 \, \sin\left(e^{x}\right)+C.
+        </me>
+    </answer>
+</exercise>

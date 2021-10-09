@@ -1,0 +1,32 @@
+<exercise checkit-seed="0006" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+            <p>
+A farmer currently grows <m>124</m> trees,
+which average a yield of <m>924</m> kilograms of
+product from each tree per year. They could increase or decrease
+the number of trees grown annually,
+but due to crowding the yield for each tree
+would be reduced by <m>7</m> kilograms for each additional
+tree. Explain how the farmer should change their annual growth
+in order to maximize production.
+            </p>
+
+
+    </statement>
+    <answer>
+
+
+
+            <p>
+Grow <m>4</m> more trees annually.
+
+
+            </p>
+
+
+    </answer>
+</exercise>

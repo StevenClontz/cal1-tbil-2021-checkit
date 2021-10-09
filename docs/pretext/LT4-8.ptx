@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>g(x)</m> is discontinuous at <m>x=-2</m>. Determine if <m>g(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=-2</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=-6</m> for 
+the function <m>g(x)</m>.</p>
                 <p>
                     <me>
                         g(x) = \begin{cases}
-                        -x, &amp; x \leq -2 \\
-                        \frac{x^{2} + 10 \, x + 24}{x^{2} + 5 \, x + 6}, &amp; x &gt; -2
+                        -4 \, x - 17, &amp; x &lt; -6 \\
+                        9, &amp; x = -6 \\
+                        -3 \, x - 9, &amp; x &gt; -6 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>f(x)</m> continuous at <m>x=-1</m>, let <m>b=-4</m>.</li>
-            <li>The function <m>g(x)</m> has a infinite discontinuity and is left-continuous at <m>x=-2</m>.</li>
+                <li>
+The function <m>g(x)</m> has a
+jump discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

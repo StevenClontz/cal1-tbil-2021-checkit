@@ -13,12 +13,15 @@
                 </p>
             </li>
             <li>
-                <p>The function <m>g(x)</m> is discontinuous at <m>x=4</m>. Determine if <m>g(x)</m> is left- or right-continuous and classify the type of discontinuity present at <m>x=4</m>.</p>
+                <p>
+Classify the type of discontinuity present at <m>x=6</m> for 
+the function <m>g(x)</m>.</p>
                 <p>
                     <me>
                         g(x) = \begin{cases}
-                        -\frac{3}{2} \, x + 12, &amp; x &lt; 4 \\
-                        \frac{x^{2} + 2 \, x + 1}{x^{2} - 8 \, x + 16}, &amp; x \geq 4
+                        7 \, x - 37, &amp; x &lt; 6 \\
+                        -3, &amp; x = 6 \\
+                        9 \, x - 49, &amp; x &gt; 6 \\
                         \end{cases}
                     </me>
                 </p>
@@ -28,7 +31,10 @@
     <answer>
         <ol>
             <li>To make <m>f(x)</m> continuous at <m>x=2</m>, let <m>b=-4</m>.</li>
-            <li>The function <m>g(x)</m> has a infinite discontinuity and is neither left- nor right-continuous at <m>x=4</m>.</li>
+                <li>
+The function <m>g(x)</m> has a
+removable discontinuity.
+                </li>
         </ol>
     </answer>
 </exercise>

@@ -1,0 +1,15 @@
+<exercise checkit-seed="0004" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=\frac{4 \, \cos\left(x\right)}{\sin\left(x\right)}.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int \frac{4 \, \cos\left(x\right)}{\sin\left(x\right)} dx=4 \, \log\left(\sin\left(x\right)\right)+C.
+        </me>
+    </answer>
+</exercise>

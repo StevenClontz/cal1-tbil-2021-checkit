@@ -1,0 +1,32 @@
+<exercise checkit-seed="0003" checkit-slug="AD8" checkit-title="Applied optimization">
+    <statement>
+
+
+
+
+            <p>
+Suppose that
+you are able to sell <m>1656</m> thingamajigs each week when
+priced at <m>\$190</m> per thingamajig. According to
+a survey of customers, decreasing this price by <m>\$1</m> will result
+in adding <m>9</m> weekly sales, and vice versa.
+Your manager is considering changing the price per thingamajig to
+maximize revenue (units sold times price). Explain what this change
+in price should be, and why.
+            </p>
+
+
+    </statement>
+    <answer>
+
+
+
+            <p>
+
+Decrease the cost by <m>\$3</m>.
+
+            </p>
+
+
+    </answer>
+</exercise>

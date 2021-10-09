@@ -1,0 +1,37 @@
+<exercise checkit-seed="0000" checkit-slug="AD5" checkit-title="Derivative tests">
+    <statement>
+        <p>
+Explain how to find the following for the function <m>f(x)=-x^{3} - 18 \, x^{2} - 105 \, x - 6</m>.
+        </p>
+        <ol>
+            <li>
+                <p>
+The open intervals where <m>f(x)</m> is increasing or decreasing.
+                </p>
+            </li>
+            <li>
+                <p>
+The relative extrema of <m>f(x)</m>.
+                </p>
+            </li>
+        </ol>
+    </statement>
+
+    <answer>
+        <ol>
+            <li>
+                <p>
+The function decreases on <m>(-\infty,-7)</m>,
+increases on <m>(-7,-5)</m>, and decreases on
+<m>(-5,\infty)</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+The point <m>(x,y)=(-7,190)</m> is a relative minimum,
+and the point <m>(x,y)=(-5,194)</m> is a relative maximum.
+                </p>
+            </li>
+        </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,15 @@
+<exercise checkit-seed="0002" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <p>
+Explain how to find the integral of <m>f(x)</m>.
+        </p>
+        <me>
+f(x)=-40 \, {\left(x^{2} - 3\right)}^{4} x.
+        </me>
+    </statement>
+    <answer>
+        <me>
+\int -40 \, {\left(x^{2} - 3\right)}^{4} x dx=-4 \, {\left(x^{2} - 3\right)}^{5}+C.
+        </me>
+    </answer>
+</exercise>
