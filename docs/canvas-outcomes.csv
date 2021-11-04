@@ -1,33 +1,33 @@
 vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,mastery_points,ratings
-checkit_tbil-calc_00_LT1_1633790926.5422416,outcome,00-LT1: Limits graphically,,LT1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_01_LT2_1633790926.5422416,outcome,01-LT2: Limits numerically,,LT2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_02_LT3_1633790926.5422416,outcome,02-LT3: Limits analytically,,LT3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_03_LT4_1633790926.5422416,outcome,03-LT4: Continuity,,LT4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_04_LT5_1633790926.5422416,outcome,04-LT5: Limits with infinite inputs,,LT5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_05_LT6_1633790926.5422416,outcome,05-LT6: Limits with infinite outputs,,LT6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_06_DF1_1633790926.5422416,outcome,06-DF1: Derivatives graphically and numerically,,DF1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_07_DF2_1633790926.5422416,outcome,07-DF2: Derivatives analytically,,DF2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_08_DF3_1633790926.5422416,outcome,08-DF3: Elementary derivative rules,,DF3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_09_DF4_1633790926.5422416,outcome,09-DF4: The product and quotient rules ,,DF4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_10_DF5_1633790926.5422416,outcome,10-DF5: The chain rule,,DF5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_11_DF6_1633790926.5422416,outcome,11-DF6: Differentiation strategy,,DF6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_12_DF7_1633790926.5422416,outcome,12-DF7: Implicit differentiation,,DF7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_13_DF8_1633790926.5422416,outcome,13-DF8: Derivatives of inverse functions,,DF8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_14_AD1_1633790926.5422416,outcome,"14-AD1: Tangents, Motion, and Marginals",,AD1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_15_AD2_1633790926.5422416,outcome,15-AD2: Linear Approximation,,AD2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_16_AD3_1633790926.5422416,outcome,16-AD3: Related rates,,AD3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_17_AD4_1633790926.5422416,outcome,17-AD4: Extreme Value Theorem,,AD4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_18_AD5_1633790926.5422416,outcome,18-AD5: Derivative tests,,AD5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_19_AD6_1633790926.5422416,outcome,19-AD6: Concavity and inflection,,AD6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_20_AD7_1633790926.5422416,outcome,20-AD7: Graphing with derivatives,,AD7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_21_AD8_1633790926.5422416,outcome,21-AD8: Applied optimization,,AD8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_22_AD9_1633790926.5422416,outcome,22-AD9: L'Hôpital's Rule,,AD9,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_23_IN1_1633790926.5422416,outcome,23-IN1: Geometry of definite integrals,,IN1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_24_IN2_1633790926.5422416,outcome,24-IN2: Approximating definite integrals,,IN2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_25_IN3_1633790926.5422416,outcome,25-IN3: Basic antiderivatives,,IN3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_26_IN4_1633790926.5422416,outcome,26-IN4: Initial Value Problems,,IN4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_27_IN5_1633790926.5422416,outcome,27-IN5: FTC for Definite Integrals,,IN5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_28_IN6_1633790926.5422416,outcome,28-IN6: FTC for Derivatives,,IN6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_29_IN7_1633790926.5422416,outcome,29-IN7: Area under curves,,IN7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_30_IN8_1633790926.5422416,outcome,30-IN8: Area between curves,,IN8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
-checkit_tbil-calc_31_TI1_1633790926.5422416,outcome,31-TI1: Substitution method,,TI1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_00_LT1_1636062245.679801,outcome,00-LT1: Limits graphically,,LT1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_01_LT2_1636062245.679801,outcome,01-LT2: Limits numerically,,LT2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_02_LT3_1636062245.679801,outcome,02-LT3: Limits analytically,,LT3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_03_LT4_1636062245.679801,outcome,03-LT4: Continuity,,LT4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_04_LT5_1636062245.679801,outcome,04-LT5: Limits with infinite inputs,,LT5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_05_LT6_1636062245.679801,outcome,05-LT6: Limits with infinite outputs,,LT6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_06_DF1_1636062245.679801,outcome,06-DF1: Derivatives graphically and numerically,,DF1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_07_DF2_1636062245.679801,outcome,07-DF2: Derivatives analytically,,DF2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_08_DF3_1636062245.679801,outcome,08-DF3: Elementary derivative rules,,DF3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_09_DF4_1636062245.679801,outcome,09-DF4: The product and quotient rules ,,DF4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_10_DF5_1636062245.679801,outcome,10-DF5: The chain rule,,DF5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_11_DF6_1636062245.679801,outcome,11-DF6: Differentiation strategy,,DF6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_12_DF7_1636062245.679801,outcome,12-DF7: Implicit differentiation,,DF7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_13_DF8_1636062245.679801,outcome,13-DF8: Derivatives of inverse functions,,DF8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_14_AD1_1636062245.679801,outcome,"14-AD1: Tangents, Motion, and Marginals",,AD1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_15_AD2_1636062245.679801,outcome,15-AD2: Linear Approximation,,AD2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_16_AD3_1636062245.679801,outcome,16-AD3: Related rates,,AD3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_17_AD4_1636062245.679801,outcome,17-AD4: Extreme Value Theorem,,AD4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_18_AD5_1636062245.679801,outcome,18-AD5: Derivative tests,,AD5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_19_AD6_1636062245.679801,outcome,19-AD6: Concavity and inflection,,AD6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_20_AD7_1636062245.679801,outcome,20-AD7: Graphing with derivatives,,AD7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_21_AD8_1636062245.679801,outcome,21-AD8: Applied optimization,,AD8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_22_AD9_1636062245.679801,outcome,22-AD9: L'Hôpital's Rule,,AD9,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_23_IN1_1636062245.679801,outcome,23-IN1: Geometry of definite integrals,,IN1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_24_IN2_1636062245.679801,outcome,24-IN2: Approximating definite integrals,,IN2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_25_IN3_1636062245.679801,outcome,25-IN3: Basic antiderivatives,,IN3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_26_IN4_1636062245.679801,outcome,26-IN4: Initial Value Problems,,IN4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_27_IN5_1636062245.679801,outcome,27-IN5: FTC for Definite Integrals,,IN5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_28_IN6_1636062245.679801,outcome,28-IN6: FTC for Derivatives,,IN6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_29_IN7_1636062245.679801,outcome,29-IN7: Area under curves,,IN7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_30_IN8_1636062245.679801,outcome,30-IN8: Area between curves,,IN8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc_31_TI1_1636062245.679801,outcome,31-TI1: Substitution method,,TI1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess

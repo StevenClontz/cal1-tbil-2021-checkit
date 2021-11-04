@@ -17,7 +17,7 @@ Explain how to estimate the value of <m>p(-7.963)</m>.
                 </li>
                 <li>
                     <p>
-Suppose that <m>p'(-8)=0</m> and you know that
+Suppose <!--that <m>p'(-8)=0</m> and--> you know that
 <m>p''(x) &gt; 0</m> for <m>x &gt; -8</m>.
 Explain how to determine if your estimate of <m>p(-7.963)</m>
 is too large or too small.

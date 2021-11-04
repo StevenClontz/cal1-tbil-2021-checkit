@@ -27,7 +27,7 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=3</m> is zero
                         </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 5 +h)-f( 5 )}{h}&gt; 0</m>
+<m>\lim_{h\to 0} \frac{f( 5 +h)-f( 5 )}{h} &gt; 0</m>
                             </p>
                         </li>
                         <li>
@@ -37,7 +37,7 @@ The rate of change of <m>f(x)</m> when <m>x=2</m> is not well-defined
                         </li>
                         <li>
                             <p>
-<m>f'(x)&lt;0</m> at <m>x=-3</m>
+<m>f'(x) &lt; 0</m> at <m>x=-3</m>
                             </p>
                         </li>
                 </ul>

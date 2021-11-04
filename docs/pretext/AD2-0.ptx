@@ -17,7 +17,7 @@ Explain how to estimate the value of <m>p(-2.037)</m>.
                 </li>
                 <li>
                     <p>
-Suppose that <m>p'(-2)=0</m> and you know that
+Suppose <!--that <m>p'(-2)=0</m> and--> you know that
 <m>p''(x) &gt; 0</m> for <m>x &lt; -2</m>.
 Explain how to determine if your estimate of <m>p(-2.037)</m>
 is too large or too small.

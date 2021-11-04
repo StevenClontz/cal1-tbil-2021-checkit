@@ -27,7 +27,7 @@ Defined and continuous on the interval <m>[-10,10]</m>.
                         </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 3 +h)-f( 3 )}{h}&lt; 0</m>
+<m>\lim_{h\to 0} \frac{f( 3 +h)-f( 3 )}{h} &lt; 0</m>
                             </p>
                         </li>
                         <li>
