@@ -54,9 +54,9 @@ def generator():
         if persondirection=="wall":
             shadowdirection="down"
 
-        dHdtround=round(lighttowall*personspeed/disttolight^2,2)
-        numshadow=lighttowall*personspeed
-        denomshadow=disttolight^2
+        dHdtround=round(lighttowall*personspeed*heightperson/disttolight^2,2)
+#         numshadow=lighttowall*personspeed
+#         denomshadow=disttolight^2
 
         return {
             scenario: True,
@@ -67,8 +67,8 @@ def generator():
             "persondirection": persondirection,
             "shadowdirection": shadowdirection,
             "dHdtround": dHdtround,
-            "numshadow": numshadow,
-            "denomshadow": denomshadow,
+#             "numshadow": numshadow,
+#             "denomshadow": denomshadow,
         }
 
     #car scenario

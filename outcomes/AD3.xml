@@ -43,7 +43,7 @@
             </statement>
             <answer>
                 <p>
-                    <m>\frac{ {{numshadow}} }{ {{denomshadow}} }\approx {{dHdtround}}</m> feet/second {{shadowdirection}}.
+                    <m>{{dHdtround}}</m> feet/second {{shadowdirection}}.
                 </p>
             </answer>
 
