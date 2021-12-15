@@ -6,39 +6,40 @@
             {{#properties}}
             <!-- Vertical Asymptote -->
                 {{#leftinf}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)</m> is infinite, but <m>\lim_{x\to {{x}}^+} {{fn}}(x)</m> is finite.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> is infinite, but <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)</m> is finite.</p></li>
                 {{/leftinf}}
                 {{#rightinf}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite, but <m>\lim_{x\to {{x}}^+} {{fn}}(x)</m> is infinite.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite, but <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)</m> is infinite.</p></li>
                 {{/rightinf}}
                 {{#bothinf}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)</m> and <m>\lim_{x\to {{x}}^+} {{fn}}(x)</m> are both infinite.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> and <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)</m> are both infinite.</p></li>
                 {{/bothinf}}
                 {{#vertleft}}
-                    <li><p><m>{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\lim_{x\to {{x}}^+} {{fn}}(x)</m> is finite.</p></li>
+                    <li><p><m>{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)</m> is finite.</p></li>
                 {{/vertleft}}
                 {{#vertright}}
-                    <li><p><m>{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite.</p></li>
+                    <li><p><m>\displaystyle{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite.</p></li>
                 {{/vertright}}
             <!-- Removable Discontinuity -->
                 {{#limneqval}}
-                    <li><p><m>\lim_{x\to {{x}}} {{fn}}(x)</m> exists and <m>{{fn}}({{x}})</m> is defined, but <m>\lim_{x\to {{x}}} {{fn}}(x)\neq {{fn}}({{x}})</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}} {{fn}}(x)</m> exists and <m>{{fn}}({{x}})</m> is defined, but
+                        <m>\displaystyle\lim_{x\to {{x}}} {{fn}}(x)\neq {{fn}}({{x}})</m>.</p></li>
                 {{/limneqval}}
                 {{#specfuncval}}
-                    <li><p><m>\lim_{x\to {{x}}} {{fn}}(x)={{y1}}</m>, but <m>{{fn}}({{x}})={{y2}}</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}} {{fn}}(x)={{y1}}</m>, but <m>{{fn}}({{x}})={{y2}}</m>.</p></li>
                 {{/specfuncval}}
             <!-- Jump Discontinuity -->
                 {{#leftneqright}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)\neq\lim_{x\to {{x}}^+} {{fn}}(x)</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)\neq\lim_{x\to {{x}}^+} {{fn}}(x)</m>.</p></li>
                 {{/leftneqright}}
                 {{#jumpspecleft}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)={{y1}}</m> but <m>\lim_{x\to {{x}}^+} {{fn}}(x)\neq{{y1}}</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)={{y1}}</m> but <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)\neq{{y1}}</m>.</p></li>
                 {{/jumpspecleft}}
                 {{#jumpspecright}}
-                    <li><p><m>\lim_{x\to {{x}}^+} {{fn}}(x)={{y1}}</m> but <m>\lim_{x\to {{x}}^-} {{fn}}(x)\neq{{y1}}</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)={{y1}}</m> but <m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)\neq{{y1}}</m>.</p></li>
                 {{/jumpspecright}}
                 {{#jumpspecleftright}}
-                    <li><p><m>\lim_{x\to {{x}}^-} {{fn}}(x)={{y1}}</m> and <m>\lim_{x\to {{x}}^+} {{fn}}(x)={{y2}}</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)={{y1}}</m> and <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)={{y2}}</m>.</p></li>
                 {{/jumpspecleftright}}
             {{/properties}}
         </ol>

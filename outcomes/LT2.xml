@@ -7,7 +7,7 @@ Use technology to complete the following table of values.
             <me>
 \begin{array}{c|ccccccc}
 x {{#nearbys}}&amp; {{x}}{{/nearbys}} \\\hline
-f(x) {{#nearbys}}&amp; {{/nearbys}} \\
+f(x) {{#nearbys}}&amp; \hspace{3em}{{/nearbys}} \\
 \end{array}
             </me>
         </p>
@@ -26,7 +26,7 @@ f(x) {{#nearbys}}&amp; {{fx}}{{/nearbys}} \\
             </me>
         </p>
         <p>
-The limit is <m>{{limit}}</m>.
+The limit seems to be <m>{{limit}}</m>.
         </p>
     </answer>
 </exercise>
