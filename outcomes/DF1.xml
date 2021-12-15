@@ -29,7 +29,7 @@ Defined and continuous on the interval <m>[-10,10]</m>.
 <m>f'(x) &gt; 0</m> at <m>x={{a}}</m>
                                     {{/v0}}
                                     {{#v1}}
-<m>\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h} &gt; 0</m>
+<m>\displaystyle\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h} &gt; 0</m>
                                     {{/v1}}
                                     {{#v2}}
 The slope tangent to the graph of <m>f(x)</m> at <m>x={{a}}</m> is positive
@@ -43,7 +43,7 @@ The rate of change of <m>f(x)</m> when <m>x={{a}}</m> is positive
 <m>f'(x) &lt; 0</m> at <m>x={{a}}</m>
                                     {{/v0}}
                                     {{#v1}}
-<m>\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h} &lt; 0</m>
+<m>\displaystyle\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h} &lt; 0</m>
                                     {{/v1}}
                                     {{#v2}}
 The slope tangent to the graph of <m>f(x)</m> at <m>x={{a}}</m> is negative
@@ -57,7 +57,7 @@ The rate of change of <m>f(x)</m> when <m>x={{a}}</m> is negative
 <m>f'(x)=0</m> at <m>x={{a}}</m>
                                     {{/v0}}
                                     {{#v1}}
-<m>\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h}= 0</m>
+<m>\displaystyle\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h}= 0</m>
                                     {{/v1}}
                                     {{#v2}}
 The slope tangent to the graph of <m>f(x)</m> at <m>x={{a}}</m> is zero
@@ -71,7 +71,7 @@ The rate of change of <m>f(x)</m> when <m>x={{a}}</m> is zero
 <m>f'(x)</m> does not exist at <m>x={{a}}</m>
                                     {{/v0}}
                                     {{#v1}}
-<m>\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h}</m> does not exist
+<m>\displaystyle\lim_{h\to 0} \frac{f( {{a}} +h)-f( {{a}} )}{h}</m> does not exist
                                     {{/v1}}
                                     {{#v2}}
 The graph of <m>f(x)</m> at <m>x={{a}}</m> has no well-defined tangent line
@@ -89,12 +89,9 @@ The rate of change of <m>f(x)</m> when <m>x={{a}}</m> is not well-defined
     </statement>
     <answer>
         <p>
-            <m>
-            g'({{base}}) \approx 
+<m>g'({{base}}) \approx {{secantslope}}</m>
 <!-- \frac{ g({{increment}}) - g({{base}}) }{ ({{increment}}) - ({{base}}) } = 
 \frac{ ({{incrementval}}) - ({{baseval}}) }{ ({{increment}}) - ({{base}}) } =  -->
-            {{secantslope}}
-            </m>
         </p>
     </answer>
 </exercise>
