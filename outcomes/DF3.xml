@@ -6,20 +6,25 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>{{fn1}}({{xp}}) = {{f1}} </me></li>
-            <li><me>{{fn2}}({{xe}}) = \sqrt[{{b}}]{  {{xe}}^{ {{a}} } } + \frac{ {{c}} } { {{xe}} ^{{d}}} </me></li>
-            <li><me>{{fn3}}({{xt}}) = {{f3}}</me></li>
+            {{#fs}}
+                <li>
+                    <p>
+<me>{{fn}}({{x}}) = {{f}}</me>
+                    </p>
+                </li>
+            {{/fs}}
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>{{fn1}}'({{xp}}) =  {{df1}} </me></li>
-            <li><me>{{fn2}}'({{xe}}) = {{df2}}</me></li>
-            <li><me>{{fn3}}'({{xt}}) = {{df3}}</me></li>
+            {{#fs}}
+                <li>
+                    <p>
+<me>{{fn}}'({{x}}) = {{df}}</me>
+                    </p>
+                </li>
+            {{/fs}}
         </ol>
-
     </answer>
 </exercise>
 
