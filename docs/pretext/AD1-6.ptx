@@ -3,32 +3,35 @@
         <ol>
             <li>
                 <p>
-                Let <m>\alpha(x) = -x^{3} - x + 6</m>. Find an equation of the line tangent to the graph at the point <m>(-3, 36)</m>.
+                Let <m>g(x) = -x^{3} - x + 6</m>. Explain and demonstrate how to find an equation for the line tangent to the graph of <m>g(x)</m> at the point <m>(-3, 36)</m>.
                 </p>
             </li>
             <li>
         <p>
-Suppose the position of an object in miles
-is modeled by the following function.
-<me>s(t)=3 \, t^{3} - 4 \, t^{2} - 7 \, t + 30</me>
+Suppose the position of an object in yards
+is modeled by the following function:
+<me>s(t)=3 \, t^{3} - 4 \, t^{2} - 7 \, t + 3.</me>
         </p>
         <p>
-Explain how to find the object's position, displacement,
-velocity, speed, and acceleration at <m>5</m>
+Explain and demonstrate how to find the object's position,
+<!--             displacement, -->
+velocity, 
+<!--             speed,  -->
+            and acceleration at <m>3</m>
 seconds. Use appropriate units for each.
                 </p>
             </li>
             <li>
                 <p>
-A thingamajig is sold for <m>\$259</m> per item.
-The cost (in dollars) of manufacturing <m>x</m> items is given by the
+A gizmo is sold for <m>\$95</m> per item. Suppose that the number of items produced is equal to the number of items sold and that
+the cost (in dollars) of producing <m>x</m> gizmos is given by the
 following function:
-<me>C(x)=5 \, x^{3} + 9 \, x^{2} + 9 \, x + 9</me>
+<me>C(x)=9 \, x^{3} + 9 \, x^{2} + 3 \, x + 7.</me>
                 </p>
                 <p>
-Suppose that the number of items produced is equal to the number of items sold. 
-Explain how to find the marginal revenue, the marginal cost, and the marginal profit
-for this situation.
+ 
+Explain and demonstrate how to find the marginal revenue, the marginal cost, and the marginal profit
+in this situation.
                 </p>
             </li>
         </ol>
@@ -45,36 +48,36 @@ The equation of the tangent line is <m>y = -28 \, x - 48</m>.
         <ul>
             <li>
                 <p>
-Position: <m>270</m> miles
+Position: <m>27</m> yards
                 </p>
             </li>
+<!--             <li>
+                <p>
+Displacement: <m>24</m> yards
+                </p>
+            </li> -->
             <li>
                 <p>
-Displacement: <m>240</m> miles
+Velocity: <m>50</m> yards per second
                 </p>
             </li>
-            <li>
+<!--             <li>
                 <p>
-Velocity: <m>178</m> miles per second
+Speed: <m>50</m> yards per second
                 </p>
-            </li>
+            </li> -->
             <li>
                 <p>
-Speed: <m>178</m> miles per second
-                </p>
-            </li>
-            <li>
-                <p>
-Acceleration: <m>82</m> miles per <m>s^2</m>
+Acceleration: <m>46</m> yards per <m>s^2</m>
                 </p>
             </li>
         </ul>
             </li>
             <li>
                 <p>
-The marginal cost is <m>15 \, x^{2} + 18 \, x + 9</m>,
-the marginal revenue is <m>259</m>,
-and the marginal profit is <m>-15 \, x^{2} - 18 \, x + 250</m>.
+The marginal cost is <m>27 \, x^{2} + 18 \, x + 3</m>,
+the marginal revenue is <m>95</m>,
+and the marginal profit is <m>-27 \, x^{2} - 18 \, x + 92</m>.
                 </p>
             </li>
         </ol>

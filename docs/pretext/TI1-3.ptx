@@ -1,15 +1,17 @@
 <exercise checkit-seed="0003" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int {\left(7 \, e^{x} - 2 \, \sin\left(x\right)\right)} e^{\left(2 \, \cos\left(x\right) + 7 \, e^{x}\right)}\,dx
+            </me>
         </p>
-        <me>
-f(x)=\frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int \frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}} dx=-2 \, \sqrt{\cos\left(x\right)}+C.
-        </me>
+        <p>
+            <me>
+e^{\left(2 \, \cos\left(x\right) + 7 \, e^{x}\right)}+C.
+            </me>
+        </p>
     </answer>
 </exercise>

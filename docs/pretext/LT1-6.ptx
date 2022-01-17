@@ -3,17 +3,17 @@
         <p>Sketch the graph of a function <m>g(x)</m> that meets all of the following criteria. Be sure to scale your axes and label any important features of your graph.</p>
         <ol>
             <!-- Vertical Asymptote -->
-                    <li><p><m>g(x)</m> has a vertical asymptote at <m>-3</m>, but <m>\lim_{x\to -3^-} g(x)</m> is finite.</p></li>
+                    <li><p><m>\displaystyle g(x)</m> has a vertical asymptote at <m>-3</m>, but <m>\displaystyle\lim_{x\to -3^-} g(x)</m> is finite.</p></li>
             <!-- Removable Discontinuity -->
             <!-- Jump Discontinuity -->
             <!-- Vertical Asymptote -->
             <!-- Removable Discontinuity -->
-                    <li><p><m>\lim_{x\to 2} g(x)=-1</m>, but <m>g(2)=-2</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to 2} g(x)=-1</m>, but <m>g(2)=-2</m>.</p></li>
             <!-- Jump Discontinuity -->
             <!-- Vertical Asymptote -->
             <!-- Removable Discontinuity -->
             <!-- Jump Discontinuity -->
-                    <li><p><m>\lim_{x\to -1^-} g(x)=3</m> but <m>\lim_{x\to -1^+} g(x)\neq3</m>.</p></li>
+                    <li><p><m>\displaystyle\lim_{x\to -1^-} g(x)=3</m> but <m>\displaystyle\lim_{x\to -1^+} g(x)\neq3</m>.</p></li>
         </ol>
     </statement>
     <answer>

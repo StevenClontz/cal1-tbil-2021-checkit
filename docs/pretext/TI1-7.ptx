@@ -1,15 +1,17 @@
 <exercise checkit-seed="0007" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int \frac{3 \, \cos\left(x\right) + 5 \, e^{x}}{5 \, e^{x} + 3 \, \sin\left(x\right)}\,dx
+            </me>
         </p>
-        <me>
-f(x)=4.
-        </me>
     </statement>
     <answer>
-        <me>
-\int 4 dx=4 \, x+C.
-        </me>
+        <p>
+            <me>
+\log\left(5 \, e^{x} + 3 \, \sin\left(x\right)\right)+C.
+            </me>
+        </p>
     </answer>
 </exercise>

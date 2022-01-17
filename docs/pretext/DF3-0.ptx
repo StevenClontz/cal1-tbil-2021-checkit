@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>f(x) = -25 \, x^{5} + 2 \, x^{4} - 3 </me></li>
-            <li><me>h(x) = \sqrt[3]{  x^{ 7 } } + \frac{ 8 } { x ^4} </me></li>
-            <li><me>g(x) = -5 \, \cos\left(x\right) - 5 \, \log\left(x\right)</me></li>
+                <li>
+                    <p>
+<me>h(y) = 3 \, y^{5} + 2 \, y^{2} - 3 \, y - 4</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g(w) = 4 \, \cos\left(w\right) + 4 \, e^{w}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f(t) = \sqrt[4]{t^7} + \frac{4}{t^{2}}</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>f'(x) =  -125 \, x^{4} + 8 \, x^{3} </me></li>
-            <li><me>h'(x) = x^{\frac{4}{3}} - \frac{32}{x^{5}}</me></li>
-            <li><me>g'(x) = \frac{5 \, {\left(x \sin\left(x\right) - 1\right)}}{x}</me></li>
+                <li>
+                    <p>
+<me>h'(y) = 15 \, y^{4} + 4 \, y - 3</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g'(w) = 4 \, e^{w} - 4 \, \sin\left(w\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f'(t) = \frac{7}{4} \, t^{\frac{3}{4}} - \frac{8}{t^{3}}</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

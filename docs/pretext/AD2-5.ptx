@@ -1,33 +1,36 @@
 <exercise checkit-seed="0005" checkit-slug="AD2" checkit-title="Linear Approximation">
     <statement>
         <p>
-A certain function <m>p(x)</m> satisfies
-<m>p(-1) = -8</m> and <m>p'(-1) = 5</m>.
+Suppose the function <m>p(x)</m> satisfies
+<m>p(-1) = -8</m>, <m>p'(-1) = 5</m>,
+and <m>p''(x) &gt; 0</m> for <m>x</m>
+values nearby <m>-1</m>.
             <ol>
                 <li>
                     <p>
-Explain how to find the local linearization <m>L(x)</m>
-of <m>p(x)</m> at <m>-1</m>.
+Explain and demonstrate
+how to find the linearization <m>L(x)</m>
+of <m>p(x)</m> at <m>x =-1</m>.
                     </p>
                 </li>
                 <li>
                     <p>
-Explain how to estimate the value of <m>p(-1.111)</m>.
+Explain and demonstrate
+how to estimate the value of <m>p(-1.09)</m> using
+this linearization.
                     </p>
                 </li>
                 <li>
                     <p>
-Suppose <!--that <m>p'(-1)=0</m> and--> you know that
-<m>p''(x) &lt; 0</m> for <m>x &lt; -1</m>.
-Explain how to determine if your estimate of <m>p(-1.111)</m>
-is too large or too small.
+Explain why your estimate of
+<m>p(-1.09)</m>
+is greater than or less than the actual value.
                     </p>
                 </li>
                 <li>
                     <p>
-Suppose that <m>p''(x) &gt; 0</m> for <m>x &gt; -1</m>.
-Use this fact and the additional information above to sketch an accurate
-graph of <m>y=p(x)</m> near <m>x=-1</m>.
+Sketch a possible graph of <m>p(x)</m> and its linearization <m>L(x)</m> nearby <m>x =-1</m>
+to illustrate your findings.
                     </p>
                 </li>
             </ol>
@@ -35,9 +38,21 @@ graph of <m>y=p(x)</m> near <m>x=-1</m>.
     </statement>
     <answer>
         <ol>
-            <li><p><m>L(x)=5 \, x - 3</m></p></li>
-            <li><p><m>p(-1.111) \approx -8.5535</m></p></li>
-            <li><p>The estimate is too large.</p></li>
+            <li>
+                <p>
+<m>L(x)=5 \, x - 3</m>
+                </p>
+            </li>
+            <li>
+                <p>
+<m>p(-1.09) \approx -8.45</m>
+                </p>
+            </li>
+            <li>
+                <p>
+The estimate is less than than the actual value.
+                </p>
+            </li>
         </ol>
     </answer>
 </exercise>

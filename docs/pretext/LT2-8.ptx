@@ -6,7 +6,7 @@ Use technology to complete the following table of values.
             <me>
 \begin{array}{c|ccccccc}
 x &amp; 6.9&amp; 6.99&amp; 6.999&amp; 7&amp; 7.001&amp; 7.01&amp; 7.1 \\\hline
-f(x) &amp; &amp; &amp; &amp; &amp; &amp; &amp;  \\
+f(x) &amp; \hspace{3em}&amp; \hspace{3em}&amp; \hspace{3em}&amp; \hspace{3em}&amp; \hspace{3em}&amp; \hspace{3em}&amp; \hspace{3em} \\
 \end{array}
             </me>
         </p>
@@ -25,7 +25,7 @@ f(x) &amp; 0.69697&amp; 0.6997&amp; 0.69997&amp; DNE&amp; 0.70003&amp; 0.7003&am
             </me>
         </p>
         <p>
-The limit is <m>0.7</m>.
+The limit seems to be <m>0.7</m>.
         </p>
     </answer>
 </exercise>

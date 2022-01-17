@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>h(t) = -6 \, t^{6} + t^{4} + 1 </me></li>
-            <li><me>f(y) = \sqrt[11]{  y^{ 2 } } + \frac{ 3 } { y ^6} </me></li>
-            <li><me>g(t) = -3 \, e^{t} + 6 \, \sin\left(t\right)</me></li>
+                <li>
+                    <p>
+<me>f(y) = \sqrt[7]{y^5} + \frac{4}{y^{4}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g(w) = -4 \, \cos\left(w\right) + 2 \, \log\left(w\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h(x) = -6 \, x^{5} + 9 \, x^{3} + 6 \, x^{2} - 9</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>h'(t) =  -36 \, t^{5} + 4 \, t^{3} </me></li>
-            <li><me>f'(y) = \frac{1}{y^{\frac{9}{11}}} - \frac{18}{y^{7}}</me></li>
-            <li><me>g'(t) = 6 \, \cos\left(t\right) - 3 \, e^{t}</me></li>
+                <li>
+                    <p>
+<me>f'(y) = \frac{5}{7 \, y^{\frac{2}{7}}} - \frac{16}{y^{5}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g'(w) = \frac{2}{w} + 4 \, \sin\left(w\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h'(x) = -30 \, x^{4} + 27 \, x^{2} + 12 \, x</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

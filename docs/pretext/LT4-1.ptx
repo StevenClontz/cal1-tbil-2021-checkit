@@ -2,7 +2,7 @@
     <statement>
         <ol>
             <li>
-                <p>Determine the value of <m>b</m> to make <m>h(x)</m> continuous at <m>x=4</m>.</p>
+                <p>Determine the value of <m>b</m> to make <m>h(x)</m> continuous at <m>x=4</m>. Explain your reasoning using limits.</p>
                 <p>
                     <me>
                         h(x) = \begin{cases}
@@ -15,7 +15,7 @@
             <li>
                 <p>
 Classify the type of discontinuity present at <m>x=-5</m> for 
-the function <m>f(x)</m>.</p>
+the function <m>f(x)</m>. Explain your reasoning using limits. </p>
                 <p>
                     <me>
                         f(x) = \begin{cases}

@@ -1,15 +1,17 @@
 <exercise checkit-seed="0009" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int \frac{3 \, \cos\left(x\right) + 5 \, e^{x}}{5 \, e^{x} + 3 \, \sin\left(x\right)}\,dx
+            </me>
         </p>
-        <me>
-f(x)=\frac{3 \, \sin\left(x\right)}{2 \, \cos\left(x\right)^{\frac{3}{2}}}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int \frac{3 \, \sin\left(x\right)}{2 \, \cos\left(x\right)^{\frac{3}{2}}} dx=\frac{3}{\sqrt{\cos\left(x\right)}}+C.
-        </me>
+        <p>
+            <me>
+\log\left(5 \, e^{x} + 3 \, \sin\left(x\right)\right)+C.
+            </me>
+        </p>
     </answer>
 </exercise>

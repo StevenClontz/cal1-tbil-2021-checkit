@@ -1,15 +1,17 @@
 <exercise checkit-seed="0000" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int -\frac{25 \, x^{4} + 7 \, \cos\left(x\right)}{2 \, {\left(5 \, x^{5} + 7 \, \sin\left(x\right)\right)}^{\frac{3}{2}}}\,dx
+            </me>
         </p>
-        <me>
-f(x)=e^{\left(-\frac{1}{2} \, x\right)}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int e^{\left(-\frac{1}{2} \, x\right)} dx=-2 \, e^{\left(-\frac{1}{2} \, x\right)}+C.
-        </me>
+        <p>
+            <me>
+\frac{1}{\sqrt{5 \, x^{5} + 7 \, \sin\left(x\right)}}+C.
+            </me>
+        </p>
     </answer>
 </exercise>

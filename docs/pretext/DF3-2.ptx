@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>h(w) = -6 \, w^{6} - 4 \, w^{3} - w </me></li>
-            <li><me>f(y) = \sqrt[3]{  y^{ 5 } } + \frac{ -8 } { y ^4} </me></li>
-            <li><me>g(x) = 6 \, \cos\left(x\right) - 3 \, \log\left(x\right)</me></li>
+                <li>
+                    <p>
+<me>h(t) = \cos\left(t\right) + \log\left(t\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f(y) = -9 \, y^{5} - 8 \, y^{3} + 4 \, y^{2} - 5</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g(x) = \sqrt[7]{x^5} + \frac{3}{x^{5}}</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>h'(w) =  -36 \, w^{5} - 12 \, w^{2} - 1 </me></li>
-            <li><me>f'(y) = y^{\frac{2}{3}} + \frac{32}{y^{5}}</me></li>
-            <li><me>g'(x) = -\frac{3 \, {\left(2 \, x \sin\left(x\right) + 1\right)}}{x}</me></li>
+                <li>
+                    <p>
+<me>h'(t) = \frac{1}{t} - \sin\left(t\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f'(y) = -45 \, y^{4} - 24 \, y^{2} + 8 \, y</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g'(x) = \frac{5}{7 \, x^{\frac{2}{7}}} - \frac{15}{x^{6}}</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

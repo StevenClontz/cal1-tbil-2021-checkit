@@ -37,7 +37,7 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=7</m> is positive
                         </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 8 +h)-f( 8 )}{h}</m> does not exist
+<m>\displaystyle\lim_{h\to 0} \frac{f( 8 +h)-f( 8 )}{h}</m> does not exist
                             </p>
                         </li>
                 </ul>
@@ -46,12 +46,9 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=7</m> is positive
     </statement>
     <answer>
         <p>
-            <m>
-            g'(1) \approx 
+<m>g'(1) \approx 0.50</m>
 <!-- \frac{ g(1.4) - g(1) }{ (1.4) - (1) } = 
 \frac{ (3.4) - (3.2) }{ (1.4) - (1) } =  -->
-            0.50
-            </m>
         </p>
     </answer>
 </exercise>

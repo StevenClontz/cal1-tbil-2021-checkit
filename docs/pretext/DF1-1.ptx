@@ -32,7 +32,7 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=5</m> is negative
                         </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 2 +h)-f( 2 )}{h}= 0</m>
+<m>\displaystyle\lim_{h\to 0} \frac{f( 2 +h)-f( 2 )}{h}= 0</m>
                             </p>
                         </li>
                         <li>
@@ -46,12 +46,9 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=5</m> is negative
     </statement>
     <answer>
         <p>
-            <m>
-            g'(-1) \approx 
+<m>g'(-1) \approx -2.00</m>
 <!-- \frac{ g(-0.9) - g(-1) }{ (-0.9) - (-1) } = 
 \frac{ (1.2) - (1.4) }{ (-0.9) - (-1) } =  -->
-            -2.00
-            </m>
         </p>
     </answer>
 </exercise>

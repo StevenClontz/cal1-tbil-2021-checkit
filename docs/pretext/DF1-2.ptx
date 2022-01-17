@@ -32,7 +32,7 @@ The slope tangent to the graph of <m>f(x)</m> at <m>x=4</m> is positive
                         </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 0 +h)-f( 0 )}{h}</m> does not exist
+<m>\displaystyle\lim_{h\to 0} \frac{f( 0 +h)-f( 0 )}{h}</m> does not exist
                             </p>
                         </li>
                         <li>
@@ -46,12 +46,9 @@ The rate of change of <m>f(x)</m> when <m>x=-2</m> is zero
     </statement>
     <answer>
         <p>
-            <m>
-            g'(2) \approx 
+<m>g'(2) \approx 0.60</m>
 <!-- \frac{ g(2.5) - g(2) }{ (2.5) - (2) } = 
 \frac{ (-2.8) - (-3.1) }{ (2.5) - (2) } =  -->
-            0.60
-            </m>
         </p>
     </answer>
 </exercise>

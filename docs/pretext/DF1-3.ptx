@@ -22,7 +22,7 @@ Defined and continuous on the interval <m>[-10,10]</m>.
                     </li>
                         <li>
                             <p>
-<m>\lim_{h\to 0} \frac{f( 3 +h)-f( 3 )}{h}= 0</m>
+<m>\displaystyle\lim_{h\to 0} \frac{f( 3 +h)-f( 3 )}{h}= 0</m>
                             </p>
                         </li>
                         <li>
@@ -46,12 +46,9 @@ The rate of change of <m>f(x)</m> when <m>x=7</m> is negative
     </statement>
     <answer>
         <p>
-            <m>
-            g'(0) \approx 
+<m>g'(0) \approx -2.00</m>
 <!-- \frac{ g(-0.1) - g(0) }{ (-0.1) - (0) } = 
 \frac{ (3.6) - (3.4) }{ (-0.1) - (0) } =  -->
-            -2.00
-            </m>
         </p>
     </answer>
 </exercise>

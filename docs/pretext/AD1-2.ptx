@@ -3,32 +3,35 @@
         <ol>
             <li>
                 <p>
-                Let <m>h(x) = -4 \, x^{4} - 2 \, x^{2} + 3 \, x + 1</m>. Find an equation of the line tangent to the graph at the point <m>(-2, -77)</m>.
+                Let <m>h(x) = -2 \, x^{4} + 3 \, x^{2} - 3 \, x + 2</m>. Explain and demonstrate how to find an equation for the line tangent to the graph of <m>h(x)</m> at the point <m>(-3, -124)</m>.
                 </p>
             </li>
             <li>
         <p>
-Suppose the position of an object in meters
-is modeled by the following function.
-<me>s(t)=t^{3} + 2 \, t^{2} - 3 \, t - 67</me>
+Suppose the position of an object in feet
+is modeled by the following function:
+<me>s(t)=t^{3} - 2 \, t^{2} - 5 \, t + 1.</me>
         </p>
         <p>
-Explain how to find the object's position, displacement,
-velocity, speed, and acceleration at <m>6</m>
+Explain and demonstrate how to find the object's position,
+<!--             displacement, -->
+velocity, 
+<!--             speed,  -->
+            and acceleration at <m>2</m>
 seconds. Use appropriate units for each.
                 </p>
             </li>
             <li>
                 <p>
-A widget is sold for <m>\$695</m> per item.
-The cost (in dollars) of manufacturing <m>x</m> items is given by the
+A widget is sold for <m>\$65</m> per item. Suppose that the number of items produced is equal to the number of items sold and that
+the cost (in dollars) of producing <m>x</m> widgets is given by the
 following function:
-<me>C(x)=9 \, x^{3} + 5 \, x^{2} + 10 \, x + 10</me>
+<me>C(x)=10 \, x^{3} + 10 \, x^{2} + 10 \, x + 1.</me>
                 </p>
                 <p>
-Suppose that the number of items produced is equal to the number of items sold. 
-Explain how to find the marginal revenue, the marginal cost, and the marginal profit
-for this situation.
+ 
+Explain and demonstrate how to find the marginal revenue, the marginal cost, and the marginal profit
+in this situation.
                 </p>
             </li>
         </ol>
@@ -37,7 +40,7 @@ for this situation.
         <ol>
             <li>
                 <p>
-The equation of the tangent line is <m>y = 139 \, x + 201</m>.
+The equation of the tangent line is <m>y = 195 \, x + 461</m>.
                 </p>
             </li>
                     
@@ -45,36 +48,36 @@ The equation of the tangent line is <m>y = 139 \, x + 201</m>.
         <ul>
             <li>
                 <p>
-Position: <m>203</m> meters
+Position: <m>-9</m> feet
                 </p>
             </li>
+<!--             <li>
+                <p>
+Displacement: <m>-10</m> feet
+                </p>
+            </li> -->
             <li>
                 <p>
-Displacement: <m>270</m> meters
+Velocity: <m>-1</m> feet per second
                 </p>
             </li>
-            <li>
+<!--             <li>
                 <p>
-Velocity: <m>129</m> meters per second
+Speed: <m>1</m> feet per second
                 </p>
-            </li>
+            </li> -->
             <li>
                 <p>
-Speed: <m>129</m> meters per second
-                </p>
-            </li>
-            <li>
-                <p>
-Acceleration: <m>40</m> meters per <m>s^2</m>
+Acceleration: <m>8</m> feet per <m>s^2</m>
                 </p>
             </li>
         </ul>
             </li>
             <li>
                 <p>
-The marginal cost is <m>27 \, x^{2} + 10 \, x + 10</m>,
-the marginal revenue is <m>695</m>,
-and the marginal profit is <m>-27 \, x^{2} - 10 \, x + 685</m>.
+The marginal cost is <m>30 \, x^{2} + 20 \, x + 10</m>,
+the marginal revenue is <m>65</m>,
+and the marginal profit is <m>-30 \, x^{2} - 20 \, x + 55</m>.
                 </p>
             </li>
         </ol>

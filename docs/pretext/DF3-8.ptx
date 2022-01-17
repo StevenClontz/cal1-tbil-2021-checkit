@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>h(w) = -4 \, w^{6} + 6 \, w^{2} + 2 \, w </me></li>
-            <li><me>g(t) = \sqrt[3]{  t^{ 7 } } + \frac{ -6 } { t ^4} </me></li>
-            <li><me>f(y) = 2 \, \cos\left(y\right) - 6 \, e^{y}</me></li>
+                <li>
+                    <p>
+<me>h(y) = -2 \, \cos\left(y\right) - e^{y}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f(t) = -t^{5} + 5 \, t^{4} - 5 \, t + 2</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g(x) = \sqrt[4]{x^3} + \frac{3}{x^{4}}</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>h'(w) =  -24 \, w^{5} + 12 \, w + 2 </me></li>
-            <li><me>g'(t) = t^{\frac{4}{3}} + \frac{24}{t^{5}}</me></li>
-            <li><me>f'(y) = -6 \, e^{y} - 2 \, \sin\left(y\right)</me></li>
+                <li>
+                    <p>
+<me>h'(y) = -e^{y} + 2 \, \sin\left(y\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f'(t) = -5 \, t^{4} + 20 \, t^{3} - 5</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g'(x) = \frac{3}{4 \, x^{\frac{1}{4}}} - \frac{12}{x^{5}}</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

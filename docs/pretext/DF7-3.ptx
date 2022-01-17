@@ -5,14 +5,14 @@ Explain how to use implicit differentiation to find
 <m>\frac{dy}{dx}</m> for each of the following equations.
         </p>
         <ol>
-                <li><p><me>-x e^{y} + 2 \, y \sin\left(x\right) = \left(-4\right)</me></p></li>
-                <li><p><me>0 = -2 \, y^{4} + 4 \, x^{2} + 5</me></p></li>
+                <li><p><me>3 \, x^{3} + 3 \, \sin\left(y\right) = -6 \, y^{3} + 2</me></p></li>
+                <li><p><me>2 \, y e^{x} = 4 \, \cos\left(x\right)</me></p></li>
         </ol>
     </statement>
     <answer>
         <ol>
-                <li><p><me>\frac{dy}{dx}=\frac{2 \, y \cos\left(x\right) - e^{y}}{x e^{y} - 2 \, \sin\left(x\right)}</me></p></li>
-                <li><p><me>\frac{dy}{dx}=\frac{x}{y^{3}}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=-\frac{3 \, x^{2}}{6 \, y^{2} + \cos\left(y\right)}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=-{\left(y e^{x} + 2 \, \sin\left(x\right)\right)} e^{\left(-x\right)}</me></p></li>
         </ol>
     </answer>
 </exercise>

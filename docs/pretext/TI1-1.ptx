@@ -1,15 +1,17 @@
 <exercise checkit-seed="0001" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int -{\left(3 \, \cos\left(x\right) - 2 \, \sin\left(x\right)\right)} \sin\left(2 \, \cos\left(x\right) + 3 \, \sin\left(x\right)\right)\,dx
+            </me>
         </p>
-        <me>
-f(x)=e^{\left(\frac{1}{2} \, x\right)}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int e^{\left(\frac{1}{2} \, x\right)} dx=2 \, e^{\left(\frac{1}{2} \, x\right)}+C.
-        </me>
+        <p>
+            <me>
+\cos\left(2 \, \cos\left(x\right) + 3 \, \sin\left(x\right)\right)+C.
+            </me>
+        </p>
     </answer>
 </exercise>

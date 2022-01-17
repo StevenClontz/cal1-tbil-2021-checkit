@@ -4,16 +4,16 @@
             Determine the following limits and explain your reasoning.
         </p>
         <ol>
-            <li><me>\lim_{x\to-6 } \frac{ x^{2} - 6 \, x + 5 }{ x^{2} - 3 \, x - 18 }</me></li>
-            <li><me>\lim_{x\to-1 } \frac{ x^{2} - 1 }{ x^{2} + 3 \, x + 2 }</me></li>
-            <li><me>\lim_{x\to5 } \frac{ x - 5 }{ \sqrt{x + 31} - 6 }</me></li>
+                <li><me>\lim_{x\to-6 } \frac{ x^{2} - 6 \, x + 5 }{ x^{2} - 3 \, x - 18 }</me></li>
+                <li><me>\lim_{x\to-1 } \frac{ x^{2} - 1 }{ x^{2} + 3 \, x + 2 }</me></li>
+                <li><me>\lim_{x\to-2 } \frac{ \frac{1}{x + 6} - \frac{1}{4} }{ x + 2 }</me></li>
         </ol>
     </statement>
     <answer>
         <ol>
-            <li><me>\frac{77}{36}</me></li>
-            <li><me>-2</me></li>
-            <li><me>12</me></li>
+                <li><me>\frac{77}{36}</me></li>
+                <li><me>-2</me></li>
+                <li><me>-\frac{1}{16}</me></li>
         </ol>
     </answer>
 </exercise>

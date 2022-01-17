@@ -2,7 +2,7 @@
     <statement>
         <ol>
             <li>
-                <p>Determine the value of <m>b</m> to make <m>f(x)</m> continuous at <m>x=-1</m>.</p>
+                <p>Determine the value of <m>b</m> to make <m>f(x)</m> continuous at <m>x=-1</m>. Explain your reasoning using limits.</p>
                 <p>
                     <me>
                         f(x) = \begin{cases}
@@ -15,7 +15,7 @@
             <li>
                 <p>
 Classify the type of discontinuity present at <m>x=-6</m> for 
-the function <m>g(x)</m>.</p>
+the function <m>g(x)</m>. Explain your reasoning using limits. </p>
                 <p>
                     <me>
                         g(x) = \begin{cases}

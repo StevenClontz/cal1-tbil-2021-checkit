@@ -1,15 +1,17 @@
 <exercise checkit-seed="0008" checkit-slug="TI1" checkit-title="Substitution method">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int {\left(5 \, e^{x} - 7 \, \sin\left(x\right)\right)} e^{\left(7 \, \cos\left(x\right) + 5 \, e^{x}\right)}\,dx
+            </me>
         </p>
-        <me>
-f(x)=5 \, \cos\left(e^{x}\right) e^{x}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int 5 \, \cos\left(e^{x}\right) e^{x} dx=5 \, \sin\left(e^{x}\right)+C.
-        </me>
+        <p>
+            <me>
+e^{\left(7 \, \cos\left(x\right) + 5 \, e^{x}\right)}+C.
+            </me>
+        </p>
     </answer>
 </exercise>

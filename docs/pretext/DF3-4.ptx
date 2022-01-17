@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>g(t) = 8 \, t^{5} - t^{2} + 2 </me></li>
-            <li><me>h(x) = \sqrt[3]{  x^{ 5 } } + \frac{ 3 } { x ^5} </me></li>
-            <li><me>f(t) = -2 \, \log\left(t\right) - 2 \, \sin\left(t\right)</me></li>
+                <li>
+                    <p>
+<me>g(w) = -9 \, w^{6} - 4 \, w^{3} - 4 \, w + 7</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h(y) = \sqrt[7]{y^3} + \frac{3}{y^{4}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f(x) = 2 \, \cos\left(x\right) + 4 \, \log\left(x\right)</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>g'(t) =  40 \, t^{4} - 2 \, t </me></li>
-            <li><me>h'(x) = x^{\frac{2}{3}} - \frac{15}{x^{6}}</me></li>
-            <li><me>f'(t) = -\frac{2 \, {\left(t \cos\left(t\right) + 1\right)}}{t}</me></li>
+                <li>
+                    <p>
+<me>g'(w) = -54 \, w^{5} - 12 \, w^{2} - 4</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h'(y) = \frac{3}{7 \, y^{\frac{4}{7}}} - \frac{12}{y^{5}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f'(x) = \frac{4}{x} - 2 \, \sin\left(x\right)</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

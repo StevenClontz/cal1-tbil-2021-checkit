@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>g(t) = -4 \, t^{6} - 6 \, t^{2} - 2 </me></li>
-            <li><me>h(y) = \sqrt[2]{  y^{ 3 } } + \frac{ 2 } { y ^2} </me></li>
-            <li><me>f(y) = \cos\left(y\right) - 6 \, e^{y}</me></li>
+                <li>
+                    <p>
+<me>f(y) = 3 \, y^{6} - 5 \, y^{4} - 3 \, y + 3</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h(x) = -3 \, e^{x} - 4 \, \sin\left(x\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g(w) = \sqrt[4]{w^3} + \frac{6}{w^{5}}</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>g'(t) =  -24 \, t^{5} - 12 \, t </me></li>
-            <li><me>h'(y) = \sqrt{y} - \frac{4}{y^{3}}</me></li>
-            <li><me>f'(y) = -6 \, e^{y} - \sin\left(y\right)</me></li>
+                <li>
+                    <p>
+<me>f'(y) = 18 \, y^{5} - 20 \, y^{3} - 3</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h'(x) = -4 \, \cos\left(x\right) - 3 \, e^{x}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>g'(w) = \frac{3}{4 \, w^{\frac{1}{4}}} - \frac{30}{w^{6}}</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

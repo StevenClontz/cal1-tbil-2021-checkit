@@ -5,19 +5,40 @@
             Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
         </p>
         <ol>
-            <li> <me>g(w) = 6 \, w^{4} + 5 \, w^{2} - 1 </me></li>
-            <li><me>h(x) = \sqrt[7]{  x^{ 5 } } + \frac{ -4 } { x ^6} </me></li>
-            <li><me>f(t) = 5 \, \cos\left(t\right) - 6 \, e^{t}</me></li>
+                <li>
+                    <p>
+<me>g(t) = 3 \, \cos\left(t\right) + 2 \, e^{t}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h(y) = \sqrt[3]{y^5} + \frac{8}{y^{4}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f(x) = -5 \, x^{4} - 5 \, x^{2} + 3 \, x + 1</me>
+                    </p>
+                </li>
         </ol>
-
-
     </statement>
     <answer>
         <ol>
-            <li><me>g'(w) =  24 \, w^{3} + 10 \, w </me></li>
-            <li><me>h'(x) = \frac{1}{x^{\frac{2}{7}}} + \frac{24}{x^{7}}</me></li>
-            <li><me>f'(t) = -6 \, e^{t} - 5 \, \sin\left(t\right)</me></li>
+                <li>
+                    <p>
+<me>g'(t) = 2 \, e^{t} - 3 \, \sin\left(t\right)</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>h'(y) = \frac{5}{3} \, y^{\frac{2}{3}} - \frac{32}{y^{5}}</me>
+                    </p>
+                </li>
+                <li>
+                    <p>
+<me>f'(x) = -20 \, x^{3} - 10 \, x + 3</me>
+                    </p>
+                </li>
         </ol>
-
     </answer>
 </exercise>

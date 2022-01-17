@@ -1,0 +1,22 @@
+<exercise checkit-seed="0008" checkit-slug="LT5and6" checkit-title="Limits and infinity ">
+
+  <statement>
+        <p>
+          Consider the following rational function.
+      <me> r(x) =  \frac{ 4 \, {\left(x - 1\right)} {\left(x - 4\right)}^{3} }{ 3 \, {\left(x + 4\right)}^{3} {\left(x - 1\right)} }</me>
+        </p>
+            <ol> 
+                <li><p>Exlain how to find the horizontal asymptote(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+                 <li><p>Exlain how to find the hole(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+              <li><p>Exlain how to find the vertical asymptote(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+                   <li><p>Draw a rough sketch of <m>r(x)</m> that showcases all the limits that you have found above. </p></li>
+      </ol>
+    </statement>
+    <answer>
+        <ol>
+                <li>The horizontal asymptote is <m>\frac{4}{3}</m></li>
+              <li>The vertical asymptote is <m>-4</m></li>
+            <li>There is a hole at <m>(1 , -\frac{36}{125}) </m></li>
+        </ol>
+    </answer>
+</exercise>

@@ -4,16 +4,16 @@
             Determine the following limits and explain your reasoning.
         </p>
         <ol>
-            <li><me>\lim_{x\to3 } \frac{ x - 3 }{ \sqrt{x + 22} - 5 }</me></li>
-            <li><me>\lim_{x\to4 } \frac{ x^{2} - 3 \, x - 4 }{ x^{2} - 16 }</me></li>
-            <li><me>\lim_{x\to-5 } \frac{ x^{2} - 3 \, x + 2 }{ x^{2} - 36 }</me></li>
+                <li><me>\lim_{x\to-3 } \frac{ \frac{1}{x + 1} + \frac{1}{2} }{ x + 3 }</me></li>
+                <li><me>\lim_{x\to4 } \frac{ x^{2} - 3 \, x - 4 }{ x^{2} - 16 }</me></li>
+                <li><me>\lim_{x\to-5 } \frac{ x^{2} - 3 \, x + 2 }{ x^{2} - 36 }</me></li>
         </ol>
     </statement>
     <answer>
         <ol>
-            <li><me>10</me></li>
-            <li><me>\frac{5}{8}</me></li>
-            <li><me>-\frac{42}{11}</me></li>
+                <li><me>-\frac{1}{4}</me></li>
+                <li><me>\frac{5}{8}</me></li>
+                <li><me>-\frac{42}{11}</me></li>
         </ol>
     </answer>
 </exercise>

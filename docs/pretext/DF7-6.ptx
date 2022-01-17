@@ -5,14 +5,14 @@ Explain how to use implicit differentiation to find
 <m>\frac{dy}{dx}</m> for each of the following equations.
         </p>
         <ol>
-                <li><p><me>-2 \, y^{4} = -5 \, x e^{y} + 3</me></p></li>
-                <li><p><me>-5 \, y \sin\left(x\right) = -3 \, x^{5} + 4</me></p></li>
+                <li><p><me>-5 \, x^{5} - 3 \, \sin\left(y\right) = -7 \, y^{5} + 4</me></p></li>
+                <li><p><me>0 = -5 \, y e^{x} - 3 \, \cos\left(x\right)</me></p></li>
         </ol>
     </statement>
     <answer>
         <ol>
-                <li><p><me>\frac{dy}{dx}=\frac{5 \, e^{y}}{8 \, y^{3} - 5 \, x e^{y}}</me></p></li>
-                <li><p><me>\frac{dy}{dx}=\frac{3 \, x^{4} - y \cos\left(x\right)}{\sin\left(x\right)}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=\frac{25 \, x^{4}}{35 \, y^{4} - 3 \, \cos\left(y\right)}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=-\frac{1}{5} \, {\left(5 \, y e^{x} - 3 \, \sin\left(x\right)\right)} e^{\left(-x\right)}</me></p></li>
         </ol>
     </answer>
 </exercise>

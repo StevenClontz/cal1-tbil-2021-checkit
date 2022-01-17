@@ -5,14 +5,14 @@ Explain how to use implicit differentiation to find
 <m>\frac{dy}{dx}</m> for each of the following equations.
         </p>
         <ol>
-                <li><p><me>5 \, x^{3} - 3 \, y \sin\left(x\right) + 4 = 0</me></p></li>
-                <li><p><me>5 \, y^{2} - 4 \, x \cos\left(y\right) + 2 = 0</me></p></li>
+                <li><p><me>9 \, y^{5} + 5 \, x^{4} + 2 \, \sin\left(y\right) + 5 = 0</me></p></li>
+                <li><p><me>4 \, e^{x} = -4 \, y \cos\left(x\right)</me></p></li>
         </ol>
     </statement>
     <answer>
         <ol>
-                <li><p><me>\frac{dy}{dx}=\frac{5 \, x^{2} - y \cos\left(x\right)}{\sin\left(x\right)}</me></p></li>
-                <li><p><me>\frac{dy}{dx}=\frac{2 \, \cos\left(y\right)}{2 \, x \sin\left(y\right) + 5 \, y}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=-\frac{20 \, x^{3}}{45 \, y^{4} + 2 \, \cos\left(y\right)}</me></p></li>
+                <li><p><me>\frac{dy}{dx}=\frac{y \sin\left(x\right) - e^{x}}{\cos\left(x\right)}</me></p></li>
         </ol>
     </answer>
 </exercise>

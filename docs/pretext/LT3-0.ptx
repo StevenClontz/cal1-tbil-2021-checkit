@@ -4,16 +4,16 @@
             Determine the following limits and explain your reasoning.
         </p>
         <ol>
-            <li><me>\lim_{x\to-5 } \frac{ x^{2} + 7 \, x + 6 }{ x^{2} + x - 12 }</me></li>
-            <li><me>\lim_{x\to3 } \frac{ x - 3 }{ \sqrt{x + 13} - 4 }</me></li>
-            <li><me>\lim_{x\to3 } \frac{ x^{2} + 2 \, x - 15 }{ x^{2} + 3 \, x - 18 }</me></li>
+                <li><me>\lim_{x\to-5 } \frac{ x^{2} + 7 \, x + 6 }{ x^{2} + x - 12 }</me></li>
+                <li><me>\lim_{x\to-4 } \frac{ \frac{1}{x + 2} + \frac{1}{2} }{ x + 4 }</me></li>
+                <li><me>\lim_{x\to3 } \frac{ x^{2} + 2 \, x - 15 }{ x^{2} + 3 \, x - 18 }</me></li>
         </ol>
     </statement>
     <answer>
         <ol>
-            <li><me>-\frac{1}{2}</me></li>
-            <li><me>8</me></li>
-            <li><me>\frac{8}{9}</me></li>
+                <li><me>-\frac{1}{2}</me></li>
+                <li><me>-\frac{1}{4}</me></li>
+                <li><me>\frac{8}{9}</me></li>
         </ol>
     </answer>
 </exercise>
