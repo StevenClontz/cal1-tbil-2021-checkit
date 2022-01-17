@@ -18,7 +18,7 @@
                     <li><p><m>{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\displaystyle\lim_{x\to {{x}}^+} {{fn}}(x)</m> is finite.</p></li>
                 {{/vertleft}}
                 {{#vertright}}
-                    <li><p><m>\displaystyle{{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite.</p></li>
+                    <li><p><m>\displaystyle {{fn}}(x)</m> has a vertical asymptote at <m>{{x}}</m>, but <m>\displaystyle\lim_{x\to {{x}}^-} {{fn}}(x)</m> is finite.</p></li>
                 {{/vertright}}
             <!-- Removable Discontinuity -->
                 {{#limneqval}}

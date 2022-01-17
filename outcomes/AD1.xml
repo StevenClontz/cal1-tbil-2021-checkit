@@ -5,7 +5,7 @@
             {{#tangent}}
             <li>
                 <p>
-                Let <m>{{function_symbol}}(x) = {{poly}}</m>. Find an equation of the line tangent to the graph at the point <m>({{pointx}}, {{pointy}})</m>.
+                Let <m>{{function_symbol}}(x) = {{poly}}</m>. Explain and demonstrate how to find an equation for the line tangent to the graph of <m>{{function_symbol}}(x)</m> at the point <m>({{pointx}}, {{pointy}})</m>.
                 </p>
             </li>
             {{/tangent}}
@@ -13,12 +13,15 @@
             <li>
         <p>
 Suppose the position of an object in {{units}}
-is modeled by the following function.
-<me>s(t)={{position}}</me>
+is modeled by the following function:
+<me>s(t)={{position}}.</me>
         </p>
         <p>
-Explain how to find the object's position, displacement,
-velocity, speed, and acceleration at <m>{{#elapsed}}{{time}}{{/elapsed}}</m>
+Explain and demonstrate how to find the object's position,
+<!--             displacement, -->
+velocity, 
+<!--             speed,  -->
+            and acceleration at <m>{{#elapsed}}{{time}}{{/elapsed}}</m>
 seconds. Use appropriate units for each.
                 </p>
             </li>
@@ -26,15 +29,15 @@ seconds. Use appropriate units for each.
             {{#marginal}}
             <li>
                 <p>
-A {{widget}} is sold for <m>\${{price}}</m> per item.
-The cost (in dollars) of manufacturing <m>x</m> items is given by the
+A {{widget}} is sold for <m>\${{price}}</m> per item. Suppose that the number of items produced is equal to the number of items sold and that
+the cost (in dollars) of producing <m>x</m> {{widget}}s is given by the
 following function:
-<me>C(x)={{cost_function}}</me>
+<me>C(x)={{cost_function}}.</me>
                 </p>
                 <p>
-Suppose that the number of items produced is equal to the number of items sold. 
-Explain how to find the marginal revenue, the marginal cost, and the marginal profit
-for this situation.
+ 
+Explain and demonstrate how to find the marginal revenue, the marginal cost, and the marginal profit
+in this situation.
                 </p>
             </li>
             {{/marginal}}
@@ -58,21 +61,21 @@ The equation of the tangent line is <m>y = {{tanline}}</m>.
 Position: <m>{{position}}</m> {{units}}
                 </p>
             </li>
-            <li>
+<!--             <li>
                 <p>
 Displacement: <m>{{displacement}}</m> {{units}}
                 </p>
-            </li>
+            </li> -->
             <li>
                 <p>
 Velocity: <m>{{velocity}}</m> {{units}} per second
                 </p>
             </li>
-            <li>
+<!--             <li>
                 <p>
 Speed: <m>{{speed}}</m> {{units}} per second
                 </p>
-            </li>
+            </li> -->
             <li>
                 <p>
 Acceleration: <m>{{acceleration}}</m> {{units}} per <m>s^2</m>

@@ -33,6 +33,11 @@
       <slug>LT6</slug>
       <description>Determine limits of functions approaching vertical asymptotes.</description>
     </outcome>
+       <outcome>
+      <title>Limits and infinity </title>
+      <slug>LT5and6</slug>
+      <description>Determine limits of a rational function at asymptotes and holes </description>
+    </outcome>
     <outcome>
       <title>Derivatives graphically and numerically</title>
       <slug>DF1</slug>

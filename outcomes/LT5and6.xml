@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+
+  <statement>
+         {{#limits}}
+        <p>
+          Consider the following rational function.
+      <me> r(x) =  \frac{ {{top}} }{ {{bottom}} }</me>
+        </p>
+           {{/limits}}
+            <ol> 
+                <li><p>Exlain how to find the horizontal asymptote(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+                 <li><p>Exlain how to find the hole(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+              <li><p>Exlain how to find the vertical asymptote(s) of <m>r(x)</m>, if there are any. Then express your findings using limit notation.</p></li>
+                   <li><p>Draw a rough sketch of <m>r(x)</m> that showcases all the limits that you have found above. </p></li>
+      </ol>
+    </statement>
+    <answer>
+        <ol>
+            {{#limits}}
+                <li>The horizontal asymptote is <m>{{ha}}</m></li>
+              <li>The vertical asymptote is <m>{{va}}</m></li>
+            <li>There is a hole at <m>({{xhole}} , {{yhole}}) </m></li>
+            {{/limits}}
+        </ol>
+    </answer>
+</exercise>

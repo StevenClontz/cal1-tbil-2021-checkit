@@ -10,7 +10,7 @@ def generator():
     
     chosenpowers=chosenpowers.sort()
 
-    funcname=choice(["f", "g", "h", r"\alpha"])
+    funcname=choice(["f", "g", "h"])
 
 
     poly(x)=0
@@ -44,8 +44,8 @@ def generator():
     position = sum([
             randrange(4-i,10-2*i)*choice([-1,1])*t^i
             for i in range(1,4)
-        ])+randrange(10,99)*choice([-1,1])
-    elapsed_time = randrange(3,7)
+        ])+randrange(1,9)*choice([-1,1])
+    elapsed_time = randrange(1,4)
     units = choice(
         [
             "meters",
@@ -70,12 +70,12 @@ def generator():
 
     # marginals
     x=var("x")
-    price = randint(101,1100)
+    price = randint(11,100)
     cost_function = sum([randint(1,10)*x^n for n in range(4)])
     marginal_cost = cost_function.diff()
     marginal_profit = price - marginal_cost
     widget = choice([
-        "thingamajig",
+        "gadget",
         "widget",
         "gizmo",
     ])

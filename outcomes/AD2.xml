@@ -10,8 +10,8 @@ values nearby <m>{{a}}</m>.
                 <li>
                     <p>
 Explain and demonstrate
-how to find the local linearization <m>L(x)</m>
-of <m>p(x)</m> at <m>{{a}}</m>.
+how to find the linearization <m>L(x)</m>
+of <m>p(x)</m> at <m>x ={{a}}</m>.
                     </p>
                 </li>
                 <li>
@@ -30,8 +30,8 @@ is greater than or less than the actual value.
                 </li>
                 <li>
                     <p>
-Sketch a possible graph of <m>p(x)</m> along with its linearization <m>L(x)</m> nearby <m>x ={{a}}</m>
-illustrating your findings.
+Sketch a possible graph of <m>p(x)</m> and its linearization <m>L(x)</m> nearby <m>x ={{a}}</m>
+to illustrate your findings.
                     </p>
                 </li>
             </ol>

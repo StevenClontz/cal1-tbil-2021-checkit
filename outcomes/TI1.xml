@@ -2,15 +2,17 @@
 <exercise xmlns="https://spatext.clontz.org" version="0.0">
     <statement>
         <p>
-Explain how to find the integral of <m>f(x)</m>.
+Explain and demonstrate how to find the following integral.
+            <me>
+\int {{dfdx}}\,dx
+            </me>
         </p>
-        <me>
-f(x)={{dfdx}}.
-        </me>
     </statement>
     <answer>
-        <me>
-\int {{dfdx}} dx={{f}}+C.
-        </me>
+        <p>
+            <me>
+{{f}}+C.
+            </me>
+        </p>
     </answer>
 </exercise>

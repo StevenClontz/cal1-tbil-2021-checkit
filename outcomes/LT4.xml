@@ -4,7 +4,7 @@
         <ol>
             <li>
                 {{#parameter}}
-                <p>Determine the value of <m>b</m> to make <m>{{fn}}(x)</m> continuous at <m>x={{x}}</m>.</p>
+                <p>Determine the value of <m>b</m> to make <m>{{fn}}(x)</m> continuous at <m>x={{x}}</m>. Explain your reasoning using limits.</p>
                 <p>
                     <me>
                         {{fn}}(x) = \begin{cases}
@@ -19,7 +19,7 @@
                 {{#discontinuity}}
                 <p>
 Classify the type of discontinuity present at <m>x={{a}}</m> for 
-the function <m>{{fn}}(x)</m>.</p>
+the function <m>{{fn}}(x)</m>. Explain your reasoning using limits. </p>
                 <p>
                     <me>
                         {{fn}}(x) = \begin{cases}
