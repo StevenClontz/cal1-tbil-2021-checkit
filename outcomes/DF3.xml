@@ -3,7 +3,7 @@
     <statement>
         <p>
             Demonstrate and explain how to find the derivative of the following functions.
-            Be sure to explicitly denote which derivative rules (constant multiple, sum and difference, etc.) you are using in your work.
+            Be sure to explicitly denote which derivative rules (scalar multiple, sum/difference, etc.) you are using in your work.
         </p>
         <ol>
             {{#fs}}
